@@ -45,7 +45,7 @@ word_freq_df = pd.DataFrame(word_freq.items(), columns=['word', 'frequency'])
 # Plot 20 most common words
 plt.figure(figsize=(10, 6))
 word_freq_df.nlargest(20, 'frequency').plot(kind='bar', x='word', y='frequency', title='20 Most Common Words')
-plt.savefig('20_most_common_words.png')
+plt.savefig('articles/20_most_common_words.png')
 plt.close()
 
 # Word Cloud
@@ -53,7 +53,7 @@ wordcloud = WordCloud().generate(all_text)
 plt.figure(figsize=(10, 6))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
-plt.savefig('wordcloud.png')
+plt.savefig('articles/wordcloud.png')
 plt.close()
 
 # Document Length Analysis
@@ -64,5 +64,5 @@ plt.figure(figsize=(10, 6))
 df_articles['text_length'].plot(kind='hist', bins=50, title='Distribution of Text Lengths')
 plt.xlabel('Text Length')
 plt.ylabel('Frequency')
-plt.savefig('text_length_distribution.png')
+plt.savefig('articles/text_length_distribution.png')
 plt.close()

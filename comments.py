@@ -14,3 +14,54 @@ df_comments = pd.read_csv('~/MultiLayrtET2_Project/Data/2_proccessed_data_and_an
 print(df_comments.head())
 print(df_comments.info())
 print(df_comments.describe())
+
+# Replace NaNs and non-string values with empty strings
+df_comments['content'] = df_comments['content'].fillna('').astype(str)
+
+# Define a function to preprocess text by removing stopwords
+stop_words = set(stopwords.words('english'))
+
+def preprocess_text(text):
+    words = text.split()
+    words = [word for word in words if word.lower() not in stop_words]
+    return ' '.join(words)
+
+# Apply preprocessing to the 'content' column
+df_comments['content'] = df_comments['content'].apply(preprocess_text)
+
+# Concatenate all text data
+all_text = ' '.join(df_comments['content'])
+
+# Tokenize words
+words = all_text.split()
+
+# Count word frequencies
+word_freq = Counter(words)
+
+# Convert to DataFrame for visualization
+word_freq_df = pd.DataFrame(word_freq.items(), columns=['word', 'frequency'])
+
+# Plot 20 most common words
+plt.figure(figsize=(10, 6))
+word_freq_df.nlargest(20, 'frequency').plot(kind='bar', x='word', y='frequency', title='20 Most Common Words')
+plt.savefig('comments/20_most_common_words.png')
+plt.close()
+
+# Word Cloud
+wordcloud = WordCloud().generate(all_text)
+plt.figure(figsize=(10, 6))
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis('off')
+plt.savefig('comments/wordcloud.png')
+plt.close()
+
+# Document Length Analysis
+df_comments['text_length'] = df_comments['content'].apply(len)
+
+# Plot distribution of text lengths
+plt.figure(figsize=(10, 6))
+df_comments['text_length'].plot(kind='hist', bins=50, title='Distribution of Text Lengths')
+plt.xlabel('Text Length')
+plt.ylabel('Frequency')
+plt.savefig('comments/text_length_distribution.png')
+plt.close()
