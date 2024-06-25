@@ -22,6 +22,7 @@ def load_and_process_data(paths):
     return ' '.join(all_text_list)
 
 def most_common_words(all_text, name):
+    print(f"Starting 20 most common words for {name}")
     all_text = all_text.translate(str.maketrans('', '', string.punctuation))
 
     def preprocess_text(text):
@@ -43,7 +44,7 @@ def most_common_words(all_text, name):
 
 # Paths to CSV files
 base_path = os.path.expanduser('~/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data')
-outlets = ['ABC', 'FOX']  # Add other outlets as needed
+outlets = ['ABC', 'FOX', 'HIL', 'HP', 'MW', 'NW', 'NYT', 'WSJ']
 platforms = ['articles', 'comments', 'reddit', 'twitter']
 
 for outlet in outlets:
