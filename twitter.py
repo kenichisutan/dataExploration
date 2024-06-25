@@ -63,5 +63,5 @@ df_reddit['text_length'] = df_reddit['content'].apply(len)
 # Plot distribution of text lengths
 plt.figure(figsize=(10, 6))
 df_reddit['text_length'].plot(kind='hist', bins=50, title='Text Length Distribution')
-plt.savefig('twitter/text_length_distribution.png')
 plt.close()
+plt.savefig('twitter/text_length_distribution.png')
