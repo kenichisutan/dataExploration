@@ -6,6 +6,8 @@ from nltk.corpus import stopwords
 import string
 import os
 
+from wordcloud import WordCloud
+
 stop_words = set(stopwords.words('english'))
 additional_stop_words = ['would', 'could', 'get', 'like', '-', 'one', 'also', 'think', 'much', 'know', 'said', 'going', 'abc', 'want', 'back', 'dont', 'even', 'see', 'well', 'really', 'many']
 stop_words.update(additional_stop_words)
@@ -46,6 +48,25 @@ def most_common_words(all_text, name):
     plt.close()
     print(f"Finished 20 most common words for {name}")
 
+def word_cloud(all_text, name):
+    print(f"Starting word cloud for {name}")
+    all_text = all_text.translate(str.maketrans('', '', string.punctuation))
+
+    def preprocess_text(text):
+        words = text.split()
+        words = [word for word in words if word.lower() not in stop_words]
+        return ' '.join(words)
+
+    all_text = preprocess_text(all_text)
+
+    wordcloud = WordCloud().generate(all_text)
+    plt.figure(figsize=(10, 6))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis('off')
+    plt.savefig(f'./{name}_wordcloud.png')
+    plt.close()
+    print(f"Finished word cloud for {name}")
+
 # Paths to CSV files
 base_path = os.path.expanduser('~/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data')
 outlets = ['ABC', 'FOX', 'HIL', 'HP', 'MW', 'NW', 'NYT', 'WSJ']
@@ -68,5 +89,6 @@ for outlet in outlets:
     all_text = load_and_process_data(paths)
     if all_text:
         most_common_words(all_text, outlet.lower())
+        word_cloud(all_text, outlet.lower())
     else:
         print(f"No data found for {outlet}")
