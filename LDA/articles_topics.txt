@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-military, said, force, city, kyiv, war, ukrainian, russia, ukraine, russian
+china, country, nato, war, president, russian, biden, putin, ukraine, russia
 
 Top 10 words for topic 1:
-new, said, mask, 19, it, case, health, covid, woman, people
+house, candidate, donald, gop, state, republican, election, former, president, trump
 
 Top 10 words for topic 2:
-military, country, nato, russian, war, president, biden, russia, putin, ukraine
+election, thomas, investigation, former, committee, biden, house, president, border, trump
 
 Top 10 words for topic 3:
-president, york, medium, new, story, laptop, post, news, hunter, biden
+brown, confirmation, vote, nominee, justice, senate, supreme, judge, court, jackson
 
 Top 10 words for topic 4:
-2022, war, police, xi, photo, beijing, chinese, ukraine, russia, china
+student, tax, bill, administration, joe, white, hunter, house, president, biden
 
 Top 10 words for topic 5:
-war, ukraine, putin, country, price, russian, energy, oil, gas, russia
+million, case, twitter, health, vaccine, company, mask, social, 19, covid
 
 Top 10 words for topic 6:
-election, fox, news, republicans, border, republican, former, president, biden, trump
+policy, administration, inflation, percent, president, energy, price, oil, gas, biden
 
 Top 10 words for topic 7:
-said, people, it, pinkett, show, chris, oscars, academy, rock, smith
+best, joke, actor, pinkett, show, chris, oscars, academy, rock, smith
 
 Top 10 words for topic 8:
-congress, inflation, billion, budget, bill, administration, president, white, house, biden
+photo, civilian, zelenskyy, war, city, kyiv, russia, ukrainian, russian, ukraine
 
 Top 10 words for topic 9:
-house, president, mr, supreme, committee, justice, judge, court, jackson, trump
+city, kyiv, force, military, putin, ukrainian, war, russia, ukraine, russian
 

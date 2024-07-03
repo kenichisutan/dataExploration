@@ -14,7 +14,7 @@ import nltk
 nltk.download('wordnet')
 nltk.download('stopwords')
 
-# Step 1: Introduce pre-processing and lemmanization
+# Step 1: Introduce pre-processing and lemmatization
 def preprocess_text(text):
     words = text.split()
     words = [word for word in words if word.lower() not in stop_words]
@@ -44,7 +44,7 @@ def load_and_process_data(paths):
 def lda(all_text, name):
     print(f"Starting LDA for {name}")
 
-    vectorizer = CountVectorizer()
+    vectorizer = CountVectorizer(stop_words=list(stop_words))
     X = vectorizer.fit_transform(all_text)
 
     lda = LatentDirichletAllocation(n_components=10, random_state=0)
@@ -69,6 +69,9 @@ def lda(all_text, name):
     entity_freq = Counter(entity_list)
     entity_freq_df = pd.DataFrame(entity_freq.items(), columns=['entity', 'frequency'])
 
+    # Filter out stop words and meaningless entities from the result
+    entity_freq_df = entity_freq_df[~entity_freq_df['entity'].isin(stop_words)]
+
     plt.figure(figsize=(20, 15))
     entity_freq_df.nlargest(30, 'frequency').plot(kind='bar', x='entity', y='frequency', legend=False)
     plt.xlabel('Entities', fontsize=12)
@@ -82,7 +85,7 @@ def lda(all_text, name):
 
 # Step 4: Run the code
 stop_words = set(stopwords.words('english'))
-additional_stop_words = ['would', 'could', 'get', 'like', '-', 'one', 'also', 'think', 'much', 'know', 'said', 'going', 'abc', 'want', 'back', 'dont', 'even', 'see', 'well', 'really', 'many']
+additional_stop_words = ['would', 'could', 'get', 'like', '-', 'one', 'also', 'think', 'much', 'know', 'said', 'going', 'abc', 'want', 'back', 'dont', 'even', 'see', 'well', 'really', 'many', 'news', 'mr', 'new', 'fox', 'cnn', 'bbc', 'said', 'say', 'year', 'years', 'people']
 stop_words.update(additional_stop_words)
 
 all_text = load_and_process_data(['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/process_data/articles/articles_full.csv'])
