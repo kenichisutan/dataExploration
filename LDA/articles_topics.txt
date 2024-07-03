@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+military, said, force, city, kyiv, war, ukrainian, russia, ukraine, russian
+
+Top 10 words for topic 1:
+new, said, mask, 19, it, case, health, covid, woman, people
+
+Top 10 words for topic 2:
+military, country, nato, russian, war, president, biden, russia, putin, ukraine
+
+Top 10 words for topic 3:
+president, york, medium, new, story, laptop, post, news, hunter, biden
+
+Top 10 words for topic 4:
+2022, war, police, xi, photo, beijing, chinese, ukraine, russia, china
+
+Top 10 words for topic 5:
+war, ukraine, putin, country, price, russian, energy, oil, gas, russia
+
+Top 10 words for topic 6:
+election, fox, news, republicans, border, republican, former, president, biden, trump
+
+Top 10 words for topic 7:
+said, people, it, pinkett, show, chris, oscars, academy, rock, smith
+
+Top 10 words for topic 8:
+congress, inflation, billion, budget, bill, administration, president, white, house, biden
+
+Top 10 words for topic 9:
+house, president, mr, supreme, committee, justice, judge, court, jackson, trump
+
