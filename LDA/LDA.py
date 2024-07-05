@@ -88,6 +88,10 @@ stop_words = set(stopwords.words('english'))
 additional_stop_words = ['would', 'could', 'get', 'like', '-', 'one', 'also', 'think', 'much', 'know', 'said', 'going', 'abc', 'want', 'back', 'dont', 'even', 'see', 'well', 'really', 'many', 'news', 'mr', 'new', 'fox', 'cnn', 'bbc', 'said', 'say', 'year', 'years', 'people']
 stop_words.update(additional_stop_words)
 
-all_text = load_and_process_data(['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/process_data/articles/articles_full.csv'])
+all_text = load_and_process_data(['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/articles_full.csv'])
 # Run LDA
 lda(all_text, 'articles')
+
+# Step 5: Run the code on only ABC news
+all_text = load_and_process_data(['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
+lda(all_text, 'ABC')
