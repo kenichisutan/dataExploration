@@ -6,7 +6,8 @@ additional_stop_words = [
     'foxnews', 'trump', 'nytimes', 'biden', 'ukraine', 'russia', 'people', 'amp', 'us', 'war', 'via', 'gop',
     'fox', 'right', 'news', 'hunter', 'nyt', 'bbc', 'cnn', 'today', 'tonight', 'tomorrow', 'monday',
     'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'yesterday', 'nytimes', 'nyc',
-    'administration'
+    'administration', 'still', 'good', 'bad', 'great', 'best', 'worst', 'better', 'worse', 'again',
+    'always', 'never', 'ever', 'since', 'first', 'last', 'next', 'soon', 'later', 'early', 'late'
 ]
 
 # Save to file
