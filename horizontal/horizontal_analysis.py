@@ -8,8 +8,16 @@ import os
 
 from wordcloud import WordCloud
 
+
+def load_additional_stop_words(file_path):
+    with open(file_path, 'r') as f:
+        stop_words = f.read().splitlines()
+    return stop_words
+
+
+# Load the stop words
+additional_stop_words = load_additional_stop_words('../additional_stop_words.txt')
 stop_words = set(stopwords.words('english'))
-additional_stop_words = ['would', 'could', 'get', 'like', '-', 'one', 'also', 'think', 'much', 'know', 'said', 'going', 'abc', 'want', 'back', 'dont', 'even', 'see', 'well', 'really', 'many']
 stop_words.update(additional_stop_words)
 
 def load_and_process_data(paths):
