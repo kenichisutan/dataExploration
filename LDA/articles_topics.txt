@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-china, country, nato, war, president, russian, biden, putin, ukraine, russia
+plan, trump, war, biden, week, ukraine, month, country, report, russia
 
 Top 10 words for topic 1:
-house, candidate, donald, gop, state, republican, election, former, president, trump
+united_states, biden, trump, week, president, war, report, country, russia, ukraine
 
 Top 10 words for topic 2:
-election, thomas, investigation, former, committee, biden, house, president, border, trump
+russian_force, trump, russian_troop, biden, war, country, putin, report, ukraine, russia
 
 Top 10 words for topic 3:
-brown, confirmation, vote, nominee, justice, senate, supreme, judge, court, jackson
+russian_force, month, kyiv, war, country, president_biden, week, biden, russia, ukraine
 
 Top 10 words for topic 4:
-student, tax, bill, administration, joe, white, hunter, house, president, biden
+world, republicans, americans, day, trump, country, biden, putin, ukraine, russia
 
 Top 10 words for topic 5:
-million, case, twitter, health, vaccine, company, mask, social, 19, covid
+president, day, country, month, biden, ukraine, putin, report, russia, trump
 
 Top 10 words for topic 6:
-policy, administration, inflation, percent, president, energy, price, oil, gas, biden
+story, country, putin, report, day, month, biden, ukraine, trump, russia
 
 Top 10 words for topic 7:
-best, joke, actor, pinkett, show, chris, oscars, academy, rock, smith
+report, war, rock, week, biden, country, smith, putin, ukraine, russia
 
 Top 10 words for topic 8:
-photo, civilian, zelenskyy, war, city, kyiv, russia, ukrainian, russian, ukraine
+russian_force, week, war, report, moscow, putin, biden, country, ukraine, russia
 
 Top 10 words for topic 9:
-city, kyiv, force, military, putin, ukrainian, war, russia, ukraine, russian
+war, president, judge_jackson, report, trump, putin, ukraine, biden, country, russia
 

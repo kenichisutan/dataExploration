@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-hard, blamed, assad, civil, nasal, extra, syrian, offer, chemical, syria
+kemp, smith, putin, trump, woman, europe, russia, ukraine, family, month
 
 Top 10 words for topic 1:
-booster, shooting, vaccine, health, sacramento, 19, official, city, shot, covid
+zelenskyy, europe, report, life, cawthorn, moscow, day, biden, russia, country
 
 Top 10 words for topic 2:
-police, cawthorn, company, department, ukraine, status, march, announced, statement, russia
+war, kremlin, report, china, mariupol, russia, russian_force, putin, week, ukraine
 
 Top 10 words for topic 3:
-city, kyiv, military, official, force, ukrainian, war, russia, russian, ukraine
+moscow, kyiv, mariupol, country, day, war, month, russian_force, russia, ukraine
 
 Top 10 words for topic 4:
-republican, biden, state, committee, election, former, house, smith, president, trump
+europe, border, monday, war, trump, country, month, day, russia, ukraine
 
 Top 10 words for topic 5:
-vaccine, week, report, house, test, positive, case, committee, 19, covid
+putin, moscow, smith, investigation, committee, rock, russian_troop, russia, report, ukraine
 
 Top 10 words for topic 6:
-foreign, government, beijing, orban, country, russian, war, ukraine, china, russia
+week, day, donbas, tuesday, world, others, men, russia, navy, ukraine
 
 Top 10 words for topic 7:
-vote, putin, jackson, biden, energy, war, country, russian, russia, gas
+kyiv, trump, men, committee, orban, body, europe, ukraine, report, russia
 
 Top 10 words for topic 8:
-russia, malta, ukraine, dos, nasa, hei, vande, million, state, vaccine
+month, russian_force, body, world, report, country, dos, week, russia, ukraine
 
 Top 10 words for topic 9:
-administration, police, inflation, twitter, white, price, president, house, oil, biden
+reporter, atrocity, day, poland, sanction, week, country, ukraine, report, russia
 
