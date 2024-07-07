@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-plan, trump, war, biden, week, ukraine, month, country, report, russia
+moscow, administration, supreme_court, democrats, war, jackson, putin, president, ukraine, russia
 
 Top 10 words for topic 1:
-united_states, biden, trump, week, president, war, report, country, russia, ukraine
+plan, wednesday, war, white_house, judge_jackson, ukraine, administration, putin, president, russia
 
 Top 10 words for topic 2:
-russian_force, trump, russian_troop, biden, war, country, putin, report, ukraine, russia
+kyiv, russian_force, russians, sanction, administration, president, war, putin, ukraine, russia
 
 Top 10 words for topic 3:
-russian_force, month, kyiv, war, country, president_biden, week, biden, russia, ukraine
+kyiv, united_states, supreme_court, white_house, statement, putin, smith, president, russia, ukraine
 
 Top 10 words for topic 4:
-world, republicans, americans, day, trump, country, biden, putin, ukraine, russia
+family, administration, smith, russian_force, war, president, republicans, putin, ukraine, russia
 
 Top 10 words for topic 5:
-president, day, country, month, biden, ukraine, putin, report, russia, trump
+administration, russian_force, russian_troop, supreme_court, putin, war, president, kyiv, russia, ukraine
 
 Top 10 words for topic 6:
-story, country, putin, report, day, month, biden, ukraine, trump, russia
+judge_jackson, united_states, war, democrats, nato, white_house, moscow, putin, russia, ukraine
 
 Top 10 words for topic 7:
-report, war, rock, week, biden, country, smith, putin, ukraine, russia
+case, albright, statement, putin, president, war, rock, ukraine, smith, russia
 
 Top 10 words for topic 8:
-russian_force, week, war, report, moscow, putin, biden, country, ukraine, russia
+moscow, china, administration, body, putin, russian_force, war, kyiv, russia, ukraine
 
 Top 10 words for topic 9:
-war, president, judge_jackson, report, trump, putin, ukraine, biden, country, russia
+woman, statement, democrats, war, administration, china, ukraine, president, putin, russia
 

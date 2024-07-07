@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-kemp, smith, putin, trump, woman, europe, russia, ukraine, family, month
+reporter, sanction, wednesday, mariupol, white_house, putin, war, russian_force, ukraine, russia
 
 Top 10 words for topic 1:
-zelenskyy, europe, report, life, cawthorn, moscow, day, biden, russia, country
+shot, street, kyiv_chernihiv, republicans, russia, war, russian_force, body, orban, ukraine
 
 Top 10 words for topic 2:
-war, kremlin, report, china, mariupol, russia, russian_force, putin, week, ukraine
+russian_troop, child, senior_defense_official, friend, kyiv, india, smith, russian_force, china, men
 
 Top 10 words for topic 3:
-moscow, kyiv, mariupol, country, day, war, month, russian_force, russia, ukraine
+malta, department, decade, vekselberg, social_medium, child, family, navy, russia, ukraine
 
 Top 10 words for topic 4:
-europe, border, monday, war, trump, country, month, day, russia, ukraine
+moscow, putin, kyiv, kremlin, mariupol, life, war, dos, russia, ukraine
 
 Top 10 words for topic 5:
-putin, moscow, smith, investigation, committee, rock, russian_troop, russia, report, ukraine
+number, russian_troop, ukrainians, follow_ap_coverage_war_http, zelenskyy, russian_force, war, putin, russia, ukraine
 
 Top 10 words for topic 6:
-week, day, donbas, tuesday, world, others, men, russia, navy, ukraine
+men, ground, atrocity, explosion, paxlovid, fire, ship, war_crime, ukraine, russia
 
 Top 10 words for topic 7:
-kyiv, trump, men, committee, orban, body, europe, ukraine, report, russia
+supply, investigation, population, rock, russians, follow_ap_coverage_war_ukraine_http, ukraine, moscow, poland, russia
 
 Top 10 words for topic 8:
-month, russian_force, body, world, report, country, dos, week, russia, ukraine
+government, president, president_joe, jackson, others, invasion, cawthorn, china, ukraine, russia
 
 Top 10 words for topic 9:
-reporter, atrocity, day, poland, sanction, week, country, ukraine, report, russia
+donbas, russians, steel_plant, body, kyiv, family, committee, putin, russia, ukraine
 
