@@ -136,18 +136,18 @@ def lda(all_text, name):
 
     print(f"Finished LDA for {name}")
 
+
+def load_additional_stop_words(file_path):
+    with open(file_path, 'r') as f:
+        stop_words = f.read().splitlines()
+    return stop_words
+
+
+# Load the stop words
+additional_stop_words = load_additional_stop_words('../additional_stop_words.txt')
+
 # Step 4: Run the code
 stop_words = set(stopwords.words('english'))
-additional_stop_words = [
-    'would', 'could', 'get', 'like', '-', 'one', 'also', 'think', 'much', 'know', 'said', 'going', 'abc',
-    'want', 'back', 'dont', 'even', 'see', 'well', 'really', 'many', 'news', 'mr', 'new', 'fox', 'cnn',
-    'bbc', 'said', 'say', 'year', 'years', 'people', 'report', 'week', 'time', 'help', 'day', 'month',
-    'world', 'country', 'americans', 'biden', 'trump', 'europe', 'twitter', 'thursday', 'tuesday', 'city',
-    'foxnews', 'trump', 'nytimes', 'biden', 'ukraine', 'russia', 'people', 'amp', 'us', 'war', 'via', 'gop',
-    'fox', 'right', 'news', 'hunter', 'nyt', 'bbc', 'cnn', 'today', 'tonight', 'tomorrow', 'monday',
-    'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'yesterday', 'nytimes', 'nyc',
-    'administration'
-]
 stop_words.update(additional_stop_words)
 
 # Run LDA on full articles dataset

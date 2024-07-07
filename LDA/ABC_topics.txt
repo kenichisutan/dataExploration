@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-reporter, sanction, wednesday, mariupol, white_house, putin, war, russian_force, ukraine, russia
+release, action, way, president_joe, energy_price, price, house, reporter, paxlovid, body
 
 Top 10 words for topic 1:
-shot, street, kyiv_chernihiv, republicans, russia, war, russian_force, body, orban, ukraine
+eastman, scene, statement, barrel_oil, release, malta, russian_force, white_house, committee, crime
 
 Top 10 words for topic 2:
-russian_troop, child, senior_defense_official, friend, kyiv, india, smith, russian_force, china, men
+title, ukrainians, body, follow_ap_coverage_http, mariupol, case, russian_troop, number, navy, russian_force
 
 Top 10 words for topic 3:
-malta, department, decade, vekselberg, social_medium, child, family, navy, russia, ukraine
+donbas, russians, life, way, cawthorn, men, white_house, follow_ap_coverage_http, poland, moscow
 
 Top 10 words for topic 4:
-moscow, putin, kyiv, kremlin, mariupol, life, war, dos, russia, ukraine
+russians, kremlin, investigation, mariupol, men, follow_ap_coverage_http, putin, kyiv, russian_force, dos
 
 Top 10 words for topic 5:
-number, russian_troop, ukrainians, follow_ap_coverage_war_http, zelenskyy, russian_force, war, putin, russia, ukraine
+china, musk, white_house, party, action, putin, election, moscow, orban, sanction
 
 Top 10 words for topic 6:
-men, ground, atrocity, explosion, paxlovid, fire, ship, war_crime, ukraine, russia
+black_sea, russian_force, india, fire, mass, president, president_joe, invasion, others, family
 
 Top 10 words for topic 7:
-supply, investigation, population, rock, russians, follow_ap_coverage_war_ukraine_http, ukraine, moscow, poland, russia
+hour, jackson, comment, smith, crime, russian_troop, invasion, zelenskyy, president, mariupol
 
 Top 10 words for topic 8:
-government, president, president_joe, jackson, others, invasion, cawthorn, china, ukraine, russia
+steel_plant, economic_sanction, kyiv, ramadan, march, vekselberg, invasion, government, company, moscow
 
 Top 10 words for topic 9:
-donbas, russians, steel_plant, body, kyiv, family, committee, putin, russia, ukraine
+department, fight, ship, child, ukrainian_force, way, putin, reporter, family, kyiv
 

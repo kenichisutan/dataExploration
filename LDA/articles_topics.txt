@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-moscow, administration, supreme_court, democrats, war, jackson, putin, president, ukraine, russia
+statement, sanction, company, russian_force, ukrainians, moscow, albright, putin, invasion, president
 
 Top 10 words for topic 1:
-plan, wednesday, war, white_house, judge_jackson, ukraine, administration, putin, president, russia
+russian_force, question, newsweek, invasion, democrats, percent, united_states, russians, president, putin
 
 Top 10 words for topic 2:
-kyiv, russian_force, russians, sanction, administration, president, war, putin, ukraine, russia
+congress, plan, russians, lawmaker, russian_force, republicans, democrats, president, putin, kyiv
 
 Top 10 words for topic 3:
-kyiv, united_states, supreme_court, white_house, statement, putin, smith, president, russia, ukraine
+place, russian_president_vladimir_putin, white_house, nato, kyiv, smith, russian_force, invasion, president, putin
 
 Top 10 words for topic 4:
-family, administration, smith, russian_force, war, president, republicans, putin, ukraine, russia
+russians, statement, nato, kyiv, united_states, rock, putin, china, president, invasion
 
 Top 10 words for topic 5:
-administration, russian_force, russian_troop, supreme_court, putin, war, president, kyiv, russia, ukraine
+democrats, jackson, election, white_house, president_joe, russian_force, invasion, president, putin, smith
 
 Top 10 words for topic 6:
-judge_jackson, united_states, war, democrats, nato, white_house, moscow, putin, russia, ukraine
+congress, united_states, statement, story, invasion, jackson, russians, democrats, putin, president
 
 Top 10 words for topic 7:
-case, albright, statement, putin, president, war, rock, ukraine, smith, russia
+supreme_court, sanction, republicans, invasion, rock, white_house, mariupol, president, smith, putin
 
 Top 10 words for topic 8:
-moscow, china, administration, body, putin, russian_force, war, kyiv, russia, ukraine
+russians, force, sanction, china, ukrainians, russian_force, nato, invasion, president, putin
 
 Top 10 words for topic 9:
-woman, statement, democrats, war, administration, china, ukraine, president, putin, russia
+part, child, congress, united_states, invasion, president, putin, moscow, kyiv, china
 
