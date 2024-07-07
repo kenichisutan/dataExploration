@@ -8,8 +8,8 @@ additional_stop_words = [
     'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'yesterday', 'nytimes', 'nyc',
     'administration', 'still', 'good', 'bad', 'great', 'best', 'worst', 'better', 'worse', 'again',
     'always', 'never', 'ever', 'since', 'first', 'last', 'next', 'soon', 'later', 'early', 'late',
-    'thehill', 'need', 'says', 'newsweek', 'go', 'maggieNYT', 'dont', 'cant', 'wont', 'didnt', "don't",
-    'doesnt', 'huffpost'
+    'thehill', 'need', 'says', 'newsweek', 'go', 'maggienyt', 'dont', 'cant', 'wont', 'didnt', "don't",
+    'doesnt', 'huffpost', 'way', 'guy', 'take', 'thing', 'http', 'https', 'com', 'www', 'org', 'net',
 ]
 
 # Save to file

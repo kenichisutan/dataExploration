@@ -104,7 +104,7 @@ need
 says
 newsweek
 go
-maggieNYT
+maggienyt
 dont
 cant
 wont
@@ -112,3 +112,13 @@ didnt
 don't
 doesnt
 huffpost
+way
+guy
+take
+thing
+http
+https
+com
+www
+org
+net
