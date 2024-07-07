@@ -7,7 +7,9 @@ additional_stop_words = [
     'fox', 'right', 'news', 'hunter', 'nyt', 'bbc', 'cnn', 'today', 'tonight', 'tomorrow', 'monday',
     'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'yesterday', 'nytimes', 'nyc',
     'administration', 'still', 'good', 'bad', 'great', 'best', 'worst', 'better', 'worse', 'again',
-    'always', 'never', 'ever', 'since', 'first', 'last', 'next', 'soon', 'later', 'early', 'late'
+    'always', 'never', 'ever', 'since', 'first', 'last', 'next', 'soon', 'later', 'early', 'late',
+    'thehill', 'need', 'says', 'newsweek', 'go', 'maggieNYT', 'dont', 'cant', 'wont', 'didnt', "don't",
+    'doesnt', 'huffpost'
 ]
 
 # Save to file
