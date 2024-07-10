@@ -26,12 +26,11 @@ def get_noun_phrases(text):
 
     # Define a chunking grammar
     grammar = r"""
-      NP: {<DT>?<JJ>*<NN.*>+}    # Noun phrase with optional determiner and adjectives
-          {<NNP>+}              # Proper noun sequences (e.g., "Donald Trump")
-          {<NNP><NNP>}          # Two consecutive proper nouns (e.g., "Supreme Court")
-          {<NN><NN>}            # Two consecutive nouns (e.g., "data science")
-          {<JJ><NN>}            # Adjective followed by a noun (e.g., "big data")
-          {<NNP><NNP><NNP>}     # Three consecutive proper nouns (e.g., "New York City")
+      NP: {<DT>?<JJ>*<NN.*>+}       # Noun phrase with optional determiner and adjectives
+          {<NNP>+}                  # Proper noun sequences (e.g., "Donald Trump")
+          {<NNP><NNP>}              # Two consecutive proper nouns (e.g., "Supreme Court")
+          {<NN><NN>}                # Two consecutive nouns (e.g., "data science")
+          {<JJ><NN>}                # Adjective followed by a noun (e.g., "big data")
     """
 
     # Create a chunk parser
@@ -51,11 +50,13 @@ def get_noun_phrases(text):
         if chunk == 'B-NP' or chunk == 'I-NP':  # If the word is part of a noun phrase
             current_np.append(word)
         elif current_np:  # If we encounter a non-noun phrase and we have accumulated words
-            noun_phrases.append('_'.join(current_np).lower())  # Join with underscores and lowercase
+            # Filter out phrases longer than 2 words
+            if len(current_np) <= 2:
+                noun_phrases.append('_'.join(current_np).lower())  # Join with underscores and lowercase
             current_np = []
 
     # If there are any remaining words in current_np, add them as a noun phrase
-    if current_np:
+    if current_np and len(current_np) <= 2:
         noun_phrases.append('_'.join(current_np).lower())
 
     return noun_phrases
