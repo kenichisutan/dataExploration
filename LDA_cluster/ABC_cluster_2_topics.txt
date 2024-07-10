@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+jurors, former_president_donald, men, stop_list, wage_vigorous_review_origin_coronavirus_republicans, argument_trial, brazen_conspiracy, roth, message, attack_capitol
+
+Top 10 words for topic 1:
+blunt, event, idea, point, president_joe, president, jackson, republicans, men, process
+
+Top 10 words for topic 2:
+presidential_election, side, democrats, impeach, sex_party, office, senate, claim, government, cawthorn
+
+Top 10 words for topic 3:
+pledge, sources_prosecutor, mandate_fourth_term_incomplete_vote_count, victory_national_election, vote, bannon, investigation, orban, election, jackson
+
+Top 10 words for topic 4:
+democratic_party, perdue, former_president, judge, reelection, donald, congress, revenue, kemp, men
+
+Top 10 words for topic 5:
+question, supporter, panel, capitol, office, committee, congress, family, election, orban
+
+Top 10 words for topic 6:
+panel, part, likely_president, possible_crime, white_house, campaign, crime, court, former_president_donald, eastman
+
+Top 10 words for topic 7:
+joe_leader, america_constitutional_governance_precipice_majority, committee_reversed_course, meadows_election, left, house_select_committee, brooks, conversation, palin, capitol_attack
+
+Top 10 words for topic 8:
+state, transgender_visibility, map, reporter, comment, hateful_bill, top_story_politics_please, political_analysis_note_daily_feature, white_house, committee
+
+Top 10 words for topic 9:
+support, former_republican_president, student_debt, federal_student_loan_payment, postpone_payment_coronavirus, moratorium, suspend_normal_trade_relation_ban_importation_oil, response_invasion, sununu, supreme_court
+

@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+weekend_mass, case_worldwide, sign_russian_troop, identity, frank_turner, sacramento, sacramento_county_coroner, death, sacramento_police, case
+
+Top 10 words for topic 1:
+morning, rapid_halt, widodo, work, jepchirchir, centers_disease_control_prevention, pinkett_smith, intense_opinion_online, chris_rock_oscars, rock
+
+Top 10 words for topic 2:
+case, surge, second_booster, booster, white_house, false_information, share, department, social_medium, musk
+
+Top 10 words for topic 3:
+police, waste, men, family, boston, scene, vaccine_dos, state, shot, dos
+
+Top 10 words for topic 4:
+indoors, data, treatment, covid, academy, infection, life, johnson_johnson_vaccine, white_house, risk
+
+Top 10 words for topic 5:
+mega_yacht_spain, mass, washington, altercation, police, shot, company, airbnb, party, paxlovid
+
+Top 10 words for topic 6:
+mask, others, increase, attack, customer, modem, network, child, oscars, smith
+
+Top 10 words for topic 7:
+woman, hhs, judge_hong_kong_top_court, gun, injured_dozen, man, prison_week, china, determine, investigation
+
+Top 10 words for topic 8:
+hospital_patient_nursing_home, development, opel, fourth_shot, spain, briefly, stock, health_official, government, vekselberg
+
+Top 10 words for topic 9:
+body, crime, number_death, president_joe, simon, genocide, smith, russian_force, act, police
+

@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+zhao_lijian, action, former_german_military_reserve_officer, head_russian_orthodox_church, earth, responsible_content, beijing, mission, leader, china
+
+Top 10 words for topic 1:
+evidence, kremlin, international_community, nobody_belief, vande_hei, reporter, russian_force, power, moral_outrage, putin
+
+Top 10 words for topic 2:
+president_joe, crowd, pandemic_president_joe, fear, prison, white_house, announcement_scale_military_operation, sanction, family, submarine
+
+Top 10 words for topic 3:
+life, group, eu, le_pen, hour, number, decision_nato, iran, finland_sweden, malta
+
+Top 10 words for topic 4:
+partner, reporter, border, trip, ukrainians, hour, milley, official, senior_state_department_official, zelenskyy
+
+Top 10 words for topic 5:
+story, visit, russian_president_vladimir_putin, officials, britain, poland, troop, nato, intelligence, putin
+
+Top 10 words for topic 6:
+ground, weapon, atrocity, zelenskyy, crime, comment, economic_sanction, president, kirby, navy
+
+Top 10 words for topic 7:
+kyiv, place, result, supply, fire, moskva, family, march, explosion, ship
+
+Top 10 words for topic 8:
+former_marine, fight, force, offensive_operation_russians_plan, american_citizen, etue, army, pentagon, missile, others
+
+Top 10 words for topic 9:
+issue_serious_crime, risk, aircraft, moment, everything, threat, fight, ukrainians, moscow, family
+

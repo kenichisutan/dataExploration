@@ -94,7 +94,7 @@ def load_and_process_data(paths):
     return processed_texts
 
 # Define the LDA function
-def lda(all_text, name):
+def lda(all_text, name, stop_words):
     print(f"Starting LDA for {name}")
 
     vectorizer = CountVectorizer(stop_words=list(stop_words))
@@ -125,12 +125,13 @@ def lda(all_text, name):
     # Filter out stop words and meaningless entities from the result
     entity_freq_df = entity_freq_df[~entity_freq_df['entity'].isin(stop_words)]
 
-    plt.figure(figsize=(20, 15))
+    plt.figure(figsize=(20, 10))
     entity_freq_df.nlargest(30, 'frequency').plot(kind='bar', x='entity', y='frequency', legend=False)
     plt.xlabel('Entities', fontsize=12)
     plt.ylabel('Frequency', fontsize=12)
     plt.title(f'Top 30 Entities in {name.upper()}', fontsize=22, pad=20)
-    plt.tight_layout()
+    plt.xticks(rotation=90)
+    plt.subplots_adjust(bottom=0.3)  # Adjust bottom to make space for labels
     plt.savefig(f'./{name}_top_30_entities.png')
     plt.close()
 
@@ -158,4 +159,4 @@ def main():
     # Run LDA on ABC news dataset
     all_text = load_and_process_data([
                                          '/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
-    lda(all_text, 'ABC')
+    lda(all_text, 'ABC', stop_words)
