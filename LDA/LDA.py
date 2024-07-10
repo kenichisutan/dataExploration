@@ -142,18 +142,20 @@ def load_additional_stop_words(file_path):
         stop_words = f.read().splitlines()
     return stop_words
 
+def main():
+    # Load the stop words
+    additional_stop_words = load_additional_stop_words('../additional_stop_words.txt')
 
-# Load the stop words
-additional_stop_words = load_additional_stop_words('../additional_stop_words.txt')
+    # Step 4: Run the code
+    stop_words = set(stopwords.words('english'))
+    stop_words.update(additional_stop_words)
 
-# Step 4: Run the code
-stop_words = set(stopwords.words('english'))
-stop_words.update(additional_stop_words)
+    # Run LDA on full articles dataset
+    all_text = load_and_process_data([
+                                         '/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/articles_full.csv'])
+    lda(all_text, 'articles')
 
-# Run LDA on full articles dataset
-all_text = load_and_process_data(['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/articles_full.csv'])
-lda(all_text, 'articles')
-
-# Run LDA on ABC news dataset
-all_text = load_and_process_data(['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
-lda(all_text, 'ABC')
+    # Run LDA on ABC news dataset
+    all_text = load_and_process_data([
+                                         '/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
+    lda(all_text, 'ABC')
