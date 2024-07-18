@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+grain, round_sanction, family_member, situation, belarus, white_house, partner, company, release, barrel_oil
+
+Top 10 words for topic 1:
+earth, lebanon, population, middle_east, stock, invasion, mission, inflation, dollar, price
+
+Top 10 words for topic 2:
+london, comparison, consumer_factor, sense_bmw, reopen_factory, shortage, demand_auto, vehicle, price, production
+
+Top 10 words for topic 3:
+sec, stake, musk_tesla, zino, vande_hei, inflation, price, share, release, musk
+
+Top 10 words for topic 4:
+change_price, situation_entirety, india_decision, remark, look, work, reporter_washington, standoff_china, view, india
+
+Top 10 words for topic 5:
+national_goal, company, vande_hei, mission, march, work, release, inflation, president_joe, invasion
+
+Top 10 words for topic 6:
+recent_data, government, frustration, remark, president, reporter, nobody_belief, power, moral_outrage, putin
+
+Top 10 words for topic 7:
+currency, march, interest_rate, life, work, invasion, dawn_dusk, prayer, price, ramadan
+
+Top 10 words for topic 8:
+polarized_election, hindsight_medicine, issue_inflation, recovery, letter, jamie_dimon, rebuild_infrastructure, rate_follow, envy_fed, dimon
+
+Top 10 words for topic 9:
+unnecessary_travel, board_burisma, payment, perfect_retreat, cost, dollar, money, agency, secret_service, family
+

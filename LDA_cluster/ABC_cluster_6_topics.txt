@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+another_shot, vaccinated_half, little_bit, reasonable_something, decision_booster, data, risk, fourth_dos, age, reporter
+
+Top 10 words for topic 1:
+hospitalization_death, drug, importance, something, treatment, poll, son_home, reed, president, paxlovid
+
+Top 10 words for topic 2:
+shot_spring, death, hospitalization, congress, vaccine, waste, vaccine_dos, state, shot, dos
+
+Top 10 words for topic 3:
+result, treatment, fourth_shot, population, virus, life, surge, risk, infection, white_house
+
+Top 10 words for topic 4:
+plan, agency, payment, borrower, president_joe, garage, moratorium, student_debt, person, boston
+
+Top 10 words for topic 5:
+combo_shot, variant, pfizer, food_drug, death, case_worldwide, booster, second_booster, vaccine, case
+
+Top 10 words for topic 6:
+continued_bill, transgender_kid, instruction_screening, statehouse, question, strategy, conduct, official, president_joe, transgender_visibility
+
+Top 10 words for topic 7:
+notable_increase, available_jha, frustration, hospital_admission, jump_infection, prediction, officials, border, increase, child
+
+Top 10 words for topic 8:
+close_quarter, others, bill, psaki, response_invasion, sailor, action_sailor, vaccination_status, preliminary_injunction, navy
+
+Top 10 words for topic 9:
+president_joe, transgender_visibility, stop_list, hhs, prison, fear, reelection, white_house, hateful_bill, family
+

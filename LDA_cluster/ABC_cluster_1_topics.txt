@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-town, atrocity, donbas_separatist, woman, ground, humiliate_united_nations, russian_force, child, steel_plant, crime
+russian_force, kyiv, moscow, leader, video, evacuation, mariupol, russian_troop, russians, steel_plant
 
 Top 10 words for topic 1:
-moskva, town, zelenskyy, woman, russians, steel_plant, mariupol, bucha, russian_troop, body
+victory, ukrainian_fighter, husband, ukrainian_woman, port_mariupol, evacuation, mariupol, moscow, kyiv, russian_force
 
 Top 10 words for topic 2:
-troop, land_corridor_crimean_peninsula, russians, weapon, number, kyiv, kremlin, force, mariupol, putin
+resident, ukrainian_authority, number, russian_force, putin, donbas, zelenskyy, kyiv, russian_troop, body
 
 Top 10 words for topic 3:
-ukrainian_official, senior_defense_official, russian_force, kyiv, azovstal, ukrainian_force, invasion, troop, putin, donbas
+russian_invasion, kremlin, photo, moscow, fire, area, crime, ukrainian_force, body, ukrainians
 
 Top 10 words for topic 4:
-ukrainian_president_volodymyr_zelenskyy, attack, child, fire, russian_troop, senior_defense_official, invasion, mariupol, russian_force, ukrainians
+ukrainians, number, capital, victory, moscow, donbas, claim, russians, russian_force, mariupol
 
 Top 10 words for topic 5:
-zelenskyy, victory, atrocity, russians, resident, kyiv, moscow, russian_force, follow_ap_coverage, donbas
+ukrainian_official, russian_force, steel_plant, body, force, russians, hostility, putin, mariupol, kremlin
 
 Top 10 words for topic 6:
-capital, person, bucha, hostility, kyiv, ukrainians, russian_troop, follow_ap_coverage, mariupol, russian_force
+conflict, soldier, ukrainian_soldier, lavrov, death, black_sea, ukrainian_force, fire, invasion, donbas
 
 Top 10 words for topic 7:
-daily_update_assessment_russian_invasion_effort_resist, donbas_region, ground, humanitarian_law, evidence_crime_russian_invasion, information, senior_defense_official, claim, kyiv_chernihiv, russian_force
+symbolize_misery, ukrainian_fighter, troop, mariupol, kyiv, vehicle, push, goal, force, russian_force
 
 Top 10 words for topic 8:
-force, crime, ukrainian_force, putin, mariupol, follow_ap_coverage, body, moscow, kyiv, russian_force
+mariupol, night_zaporizhzhia, bunker, bunker_beneath, address_nation, port, steel_mill, others, ukrainian_fighter, azovstal
 
 Top 10 words for topic 9:
-fresh_wave_condemnation_evidence, appeared_deliberate, follow_ap_coverage, kyiv, senior_defense_official, steel_plant, russian_troop, russians, mariupol, body
+military_east, number_civilian, port_mariupol, weapon, position, crime, putin, moscow, kyiv, donbas
 

@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+group, saw_victim, mass, video, mother, another_community, family, woman, men, scene
+
+Top 10 words for topic 1:
+father, bar_nightclub, street_sacramento, weekend_mass, life, someone, identity, frank_turner, sacramento, party
+
+Top 10 words for topic 2:
+mass, airbnb, company, altercation, weekend_mass, investigator, men, sacramento_police, police, scene
+
+Top 10 words for topic 3:
+crime_scene, convict_carrying, possession_firearm, injured_dozen, gun, man, prison_week, sacramento_police, men, determine
+
+Top 10 words for topic 4:
+racist_language, public_safety, example_met, cointelpro, company, minneapolis, limit, investigation, department, social_medium
+
+Top 10 words for topic 5:
+slain_teenager, daughter, sacramento_california, day_gunfire, multiple_shooter, bone_cut, shot, mass, airbnb, scene
+
+Top 10 words for topic 6:
+john_fisher, information_suspect, block, bone, injured_police, rifle_pistol, arrest, authorities, morning, police
+
+Top 10 words for topic 7:
+mass, airbnb, company, altercation, weekend_mass, investigator, men, sacramento_police, police, scene
+
+Top 10 words for topic 8:
+police, scene, mpd, minneapolis_police, racial_discrimination, timeline_change, path, floyd_family, investigator, investigation
+
+Top 10 words for topic 9:
+shooting, airbnb, kid, davis, mother, house, officer, investigator, altercation, scene
+

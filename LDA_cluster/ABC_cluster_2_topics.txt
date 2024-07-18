@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-jurors, former_president_donald, men, stop_list, wage_vigorous_review_origin_coronavirus_republicans, argument_trial, brazen_conspiracy, roth, message, attack_capitol
+deficit, decision, justice_department, point, comment, brooks, likely_president, map, election, committee
 
 Top 10 words for topic 1:
-blunt, event, idea, point, president_joe, president, jackson, republicans, men, process
+reelection, threshold, lawmaker, former_president, donald, election, vote, supreme_court, orban, kemp
 
 Top 10 words for topic 2:
-presidential_election, side, democrats, impeach, sex_party, office, senate, claim, government, cawthorn
+democrats, debate, left, joe_leader, career, meadows_election, president, supreme_court, capitol_attack, sununu
 
 Top 10 words for topic 3:
-pledge, sources_prosecutor, mandate_fourth_term_incomplete_vote_count, victory_national_election, vote, bannon, investigation, orban, election, jackson
+attack_capitol, house_panel, call, insurrection_capitol, record, supporter, committee, panel, capitol, congress
 
 Top 10 words for topic 4:
-democratic_party, perdue, former_president, judge, reelection, donald, congress, revenue, kemp, men
+scavino, sex_party, presidential_election, claim, election, office, china, bannon, committee, cawthorn
 
 Top 10 words for topic 5:
-question, supporter, panel, capitol, office, committee, congress, family, election, orban
+kidnapping_plot, detroit, october, judge, case, croft, person, republicans, jackson, men
 
 Top 10 words for topic 6:
-panel, part, likely_president, possible_crime, white_house, campaign, crime, court, former_president_donald, eastman
+campaign, government, democrats, white_house, revenue, senate, republicans, process, eastman, men
 
 Top 10 words for topic 7:
-joe_leader, america_constitutional_governance_precipice_majority, committee_reversed_course, meadows_election, left, house_select_committee, brooks, conversation, palin, capitol_attack
+voter, state, house, woman, reporter, democrats, white_house, comment, jepchirchir, office
 
 Top 10 words for topic 8:
-state, transgender_visibility, map, reporter, comment, hateful_bill, top_story_politics_please, political_analysis_note_daily_feature, white_house, committee
+part, others, york_times, george_stephanopoulos, point, president, blunt, idea, court, palin
 
 Top 10 words for topic 9:
-support, former_republican_president, student_debt, federal_student_loan_payment, postpone_payment_coronavirus, moratorium, suspend_normal_trade_relation_ban_importation_oil, response_invasion, sununu, supreme_court
+president_joe, confirmation, point, judge_jackson, isolated_position, opposition_home, conversation, jackson, supreme_court, orban
 

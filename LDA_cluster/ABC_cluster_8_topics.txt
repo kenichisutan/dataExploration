@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+man_life, watching, sexual_abuse, kiss_crown, mistake, jackson_career, swift, torso, opel, briefly
+
+Top 10 words for topic 1:
+regret_behavior, confrontation_rock, academy_instagram, oscars, joke, head, leave_ceremony, action, academy, smith
+
+Top 10 words for topic 2:
+regret_behavior, confrontation_rock, academy_instagram, oscars, joke, head, leave_ceremony, action, academy, smith
+
+Top 10 words for topic 3:
+regret_behavior, confrontation_rock, academy_instagram, oscars, joke, head, leave_ceremony, action, academy, smith
+
+Top 10 words for topic 4:
+britain_face, cold_invasion, communication, russian_authority, information_intent, russian_diplomat, spy, offense, information_person, germany
+
+Top 10 words for topic 5:
+light_situation, oscar_moment, richard_marx, second_smith, seat, documentary_hair, head, joke, pinkett_smith, rock
+
+Top 10 words for topic 6:
+board_governors, celebratory_event, handled_situation, part_job, building_academy, stage, action, leave_ceremony, smith, academy
+
+Top 10 words for topic 7:
+difficult_circumstance, cross, oscar_gold, sharp_criticism, rock_remark, ovation, ceremony, rock, oscars, smith
+
+Top 10 words for topic 8:
+regret_behavior, confrontation_rock, academy_instagram, oscars, joke, head, leave_ceremony, action, academy, smith
+
+Top 10 words for topic 9:
+attention_achievement, allow_violence, action_smith, rock_comedian, richard_williams, regret_behavior, confrontation_rock, academy_instagram, life_look, smith
+

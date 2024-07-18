@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+offensive_push, learn, effort, evidence, strike, russian_troop, russian_crime, pentagon, russians, reporter
+
+Top 10 words for topic 1:
+family_zelenskyy, journey, russian_force, troop, official, putin, zelenskyy, hour, kyiv, kirby
+
+Top 10 words for topic 2:
+bomb, likely_repositioning, belief_troop, support, lithuania, measure_talk, donbas_region, reporter_russians, capital, prioritize
+
+Top 10 words for topic 3:
+barrel_bomb, gear, turkey, russian_force, donbas, btgs, airstrikes, syria, kyiv_chernihiv, missile
+
+Top 10 words for topic 4:
+artillery_missile, official, kyiv, ground, official_pentagon, fact, mariupol, mariupol_ukrainians, russian_force, ukrainians
+
+Top 10 words for topic 5:
+weapon, artillery, difficult_system, unit, region, reporter, aid, ukrainian_force, troop, invasion
+
+Top 10 words for topic 6:
+capital, russian_force, ukrainians, russians, mariupol, kyiv, reporter, pentagon, invasion, kirby
+
+Top 10 words for topic 7:
+capital, russian_force, ukrainians, russians, mariupol, kyiv, reporter, pentagon, invasion, kirby
+
+Top 10 words for topic 8:
+success_south, sole_battery, line_vehicle, evidence_russians, indication_system, move, training_ukrainians, region, mariupol, ukrainians
+
+Top 10 words for topic 9:
+capital, russian_force, ukrainians, russians, mariupol, kyiv, reporter, pentagon, invasion, kirby
+

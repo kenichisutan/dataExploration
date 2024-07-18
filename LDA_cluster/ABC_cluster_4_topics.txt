@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-zhao_lijian, action, former_german_military_reserve_officer, head_russian_orthodox_church, earth, responsible_content, beijing, mission, leader, china
+recruit_upwards, camera, body, safer_region, sanction, government, bucha, moscow, invasion, russian_troop
 
 Top 10 words for topic 1:
-evidence, kremlin, international_community, nobody_belief, vande_hei, reporter, russian_force, power, moral_outrage, putin
+mistake, others, pope_francis, responsible_content, eu, force, kyiv, moscow, aircraft, malta
 
 Top 10 words for topic 2:
-president_joe, crowd, pandemic_president_joe, fear, prison, white_house, announcement_scale_military_operation, sanction, family, submarine
+work, armored_vehicle, australian_lawmaker, appeared_deliberate, reporter, moscow, explosion, sanction, body, ship
 
 Top 10 words for topic 3:
-life, group, eu, le_pen, hour, number, decision_nato, iran, finland_sweden, malta
+black_sea, flagship_cruiser, dozen_others, state_department, sanction, ground, moskva, fire, attack, family
 
 Top 10 words for topic 4:
-partner, reporter, border, trip, ukrainians, hour, milley, official, senior_state_department_official, zelenskyy
+story, leader, crime, everything, fight, economic_sanction, ukrainians, sanction, family, child
 
 Top 10 words for topic 5:
-story, visit, russian_president_vladimir_putin, officials, britain, poland, troop, nato, intelligence, putin
+favor, action, reporter, julian_lennon, zelenskyy, town, attack, network, modem, customer
 
 Top 10 words for topic 6:
-ground, weapon, atrocity, zelenskyy, crime, comment, economic_sanction, president, kirby, navy
+intelligence, sign_contract, jittery_prospect, defense_ministry, name, beijing, result, russian_force, china, putin
 
 Top 10 words for topic 7:
-kyiv, place, result, supply, fire, moskva, family, march, explosion, ship
+ukrainian_border, detention, activity, iran, threat, international_community, group, false_information, supply, march
 
 Top 10 words for topic 8:
-former_marine, fight, force, offensive_operation_russians_plan, american_citizen, etue, army, pentagon, missile, others
+government, humanitarian_aid, ground, genocide, moscow, putin, submarine, vekselberg, crime, atrocity
 
 Top 10 words for topic 9:
-issue_serious_crime, risk, aircraft, moment, everything, threat, fight, ukrainians, moscow, family
+vote, partner, decision_nato, order, simon, crime, finland_sweden, genocide, place, russian_force
 

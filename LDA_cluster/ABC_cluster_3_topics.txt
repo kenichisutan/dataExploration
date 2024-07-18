@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-peace_air, price_european_coal_future_price, peace_possible_draghi_price_gas, reliance_russian_natural_gas_government_consequence_job_cutoff_germany, european_council_president_charles_michel, industry, eu, contract, inflation, coal
+ruble_value, reserve, energy_contract, pipeline_system, system, gas_currency, idea, change, reporter_minister, euro_dollar
 
 Top 10 words for topic 1:
-gas_supply, gas_ruble, united_states, russian_president_vladimir_putin_unfriendly_country, gas_ruble_currency_bulgaria_poland, march, government, western_country, moscow, reporter
+hungary_slovakia, ready_habeck, schwedt_refinery, february_commission, problem, putin_law, european_law, european_contract, gas_ruble, oil
 
 Top 10 words for topic 2:
-renewable_energy, work, others, border, nation, look, move, policy, economy, growth_forecast
+detail_process, economy, agreement_receive, energy, demand, eu, industry, concern_moscow, plan, supply
 
 Top 10 words for topic 3:
-food_fuel_shipping_cost, security_council, euro_dollar, dawn_dusk, energy_food_price, prayer, invasion, sanctions, price, ramadan
+western_country, demand, growth_forecast, oil, poland, germany, gdp, fourth_quarter, version_story, renewable_energy
 
 Top 10 words for topic 4:
-partner, march, default, order_video_game, access_prime_video_customer, situation, shipment_retail_product_customer, aws_customer_amazon_seller, belarus, russian_bank
+supply_gas, dollar_putin, italy_germany, dollar, company, contract, western_country, demand, bank, kremlin_decree
 
 Top 10 words for topic 5:
-president_joe, russian_troop, major_bank, high_gas_price, russian_president_vladimir_putin, plan, russian_government, russians, sullivan, sanction
+poland_parliament, delivery, support, pipeline, gas_supply, western_country, oil, gazprom, poland, moscow
 
 Top 10 words for topic 6:
-effect, remark, fuel, moscow_western_nation, member_country, russian_banking_sector, round_sanction, family_member, putin, white_house
+nothing, cutoff_kremlin, person, rising_price, series_explosion, line_analyst, step, european_nation, demand, oil
 
 Top 10 words for topic 7:
-kremlin_decree, concern_moscow, plan, production, demand, supply, vehicle, poland, india, sanction
+western_country, demand, growth_forecast, oil, poland, germany, gdp, fourth_quarter, version_story, renewable_energy
 
 Top 10 words for topic 8:
-lebanon, population, middle_east, company, invasion, inflation, nation_strategic_petroleum_reserve, price, barrel_oil, release
+clear_breach, gas_oil, declaration, set_proposal, contract_currency, ruble_demand, poland, member_country, fuel, russian_coal
 
 Top 10 words for topic 9:
-complete_cutoff_theory, natural_gas_nato_member_poland_bulgaria, gas_money_putin, pipeline, follow_ap_coverage, oil, inflation, gazprom, poland, moscow
+eu_plan, eu_country, inflation, discussion, difficult_eu, coalition, contract, eu, industry, coal
 

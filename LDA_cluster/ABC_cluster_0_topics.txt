@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-weekend_mass, case_worldwide, sign_russian_troop, identity, frank_turner, sacramento, sacramento_county_coroner, death, sacramento_police, case
+something, positive_virus, risk, claim, indoors, positivity_rate, father, conservative_government, family, covid
 
 Top 10 words for topic 1:
-morning, rapid_halt, widodo, work, jepchirchir, centers_disease_control_prevention, pinkett_smith, intense_opinion_online, chris_rock_oscars, rock
+precaution, problem, destination, fact, importance, decision, spread, employee, others, mask
 
 Top 10 words for topic 2:
-case, surge, second_booster, booster, white_house, false_information, share, department, social_medium, musk
+hospital, month_case, hospital_total, viral_resurgence, case, death, life, increase, rule, health_official
 
 Top 10 words for topic 3:
-police, waste, men, family, boston, scene, vaccine_dos, state, shot, dos
+chinese_scientist, coronaviruses, handful_democrats, traveler, individual_right, individual_state, april, lawsuit, florida_state, rule
 
 Top 10 words for topic 4:
-indoors, data, treatment, covid, academy, infection, life, johnson_johnson_vaccine, white_house, risk
+condition, positive_infection, weekly_total, official_politician, data, ers_get, vaccination_status, related_hospitalization, life_washington, vulnerable_neighbor
 
 Top 10 words for topic 5:
-mega_yacht_spain, mass, washington, altercation, police, shot, company, airbnb, party, paxlovid
+rise, disease, case_day, mandate, mandate_philadelphia, act, guideline_call, wave_hospitalization, mask_philadelphia, overturn_philadelphia
 
 Top 10 words for topic 6:
-mask, others, increase, attack, customer, modem, network, child, oscars, smith
+chinese_scientist, coronaviruses, handful_democrats, traveler, individual_right, individual_state, april, lawsuit, florida_state, rule
 
 Top 10 words for topic 7:
-woman, hhs, judge_hong_kong_top_court, gun, injured_dozen, man, prison_week, china, determine, investigation
+chinese_scientist, coronaviruses, handful_democrats, traveler, individual_right, individual_state, april, lawsuit, florida_state, rule
 
 Top 10 words for topic 8:
-hospital_patient_nursing_home, development, opel, fourth_shot, spain, briefly, stock, health_official, government, vekselberg
+hour_minute, effort, patriots_race, speed_beat, distanced_field, grilk_run, slog, former_champion, pandemic, boston
 
 Top 10 words for topic 9:
-body, crime, number_death, president_joe, simon, genocide, smith, russian_force, act, police
+chinese_scientist, coronaviruses, handful_democrats, traveler, individual_right, individual_state, april, lawsuit, florida_state, rule
 
