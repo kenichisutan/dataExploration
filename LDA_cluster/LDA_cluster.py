@@ -66,12 +66,16 @@ def lda_on_clusters(raw_texts, clusters, name):
             noun_phrases_texts = [' '.join(get_noun_phrases(text)) for text in processed_texts]
             lda(noun_phrases_texts, f"{name}_cluster_{idx}", stop_words)
 
-    # Print a few texts from each cluster to verify
-    for cluster_id in cluster_df['cluster'].unique():
-        print(f"\nCluster {cluster_id}:\n")
-        sample_texts = cluster_df[cluster_df['cluster'] == cluster_id]['text'].sample(3, random_state=42).tolist()
-        for text in sample_texts:
-            print(f" - {text[:100]}...")  # Print the first 100 characters of the text for brevity
+    # Save all clusters to a single text file
+    with open(f'{name}_clusters.txt', 'w') as f:
+        for cluster_id in cluster_df['cluster'].unique():
+            cluster_texts_count = len(cluster_df[cluster_df['cluster'] == cluster_id])
+            f.write(f"\nCluster {cluster_id} (Total Articles: {cluster_texts_count}):\n")
+            print(f"\nCluster {cluster_id} (Total Articles: {cluster_texts_count}):\n")
+            sample_texts = cluster_df[cluster_df['cluster'] == cluster_id]['text'].sample(3, random_state=42).tolist()
+            for text in sample_texts:
+                f.write(f"{text}\n\n")
+                print(f" - {text[:100]}...")
 
 
 def main():
@@ -79,7 +83,7 @@ def main():
     all_text, raw_text = load_and_process_data(
         ['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
     tfidf_matrix, vectorizer = extract_features(raw_text)
-    clusters, km = apply_clustering(tfidf_matrix, num_clusters=5)
+    clusters, km = apply_clustering(tfidf_matrix, num_clusters=10)
     lda_on_clusters(raw_text, clusters, 'ABC')
     silhouette_avg = silhouette_score(tfidf_matrix, clusters)
     print(f"Silhouette Score: {silhouette_avg}")
