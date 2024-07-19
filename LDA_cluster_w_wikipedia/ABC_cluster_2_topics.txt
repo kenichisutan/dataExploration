@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+state_january, kyiv_area, update, provide_weapon, ukrainian_civilian, ukrainian_force, story_please, strategy, reporter, genocide
+
+Top 10 words for topic 1:
+boylston_street, unofficial_runner, course, marathon, boston, morning, shoulder_shoulder, week_race, line, jepchirchir
+
+Top 10 words for topic 2:
+zelenskyy, poland, russian_coal, policy, ground, president, comment, genocide, atrocity, crime
+
+Top 10 words for topic 3:
+state_january, kyiv_area, update, provide_weapon, ukrainian_civilian, ukrainian_force, story_please, strategy, reporter, genocide
+
+Top 10 words for topic 4:
+drug_challenge, victory_mayor, mariupol, steel_plant, russian_troop, russian_force, poland, evacuation, symbolize_misery, russians
+
+Top 10 words for topic 5:
+government_model, monthly_encounter, strategic_plan, migrant_title, united_states, march_announcement, level_migrant, officials, border, reporter
+
+Top 10 words for topic 6:
+crime, putin, house_committee, likely_president, court, campaign, violence, party, weapon, eastman
+
+Top 10 words for topic 7:
+state_january, kyiv_area, update, provide_weapon, ukrainian_civilian, ukrainian_force, story_please, strategy, reporter, genocide
+
+Top 10 words for topic 8:
+termination_rule, prepare, title_trigger, policy_place, border, major_bank, bank, reporter, fuel, member_country
+
+Top 10 words for topic 9:
+mental_harm, place, term, house, title, white_house, order, simon, russian_force, genocide
+

@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+situation, smith_form, smith_officially, trophy_family, leave_ceremony, action, rock, hostility, oscars, smith
+
+Top 10 words for topic 1:
+leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+
+Top 10 words for topic 2:
+leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+
+Top 10 words for topic 3:
+slap, smith_act, smith_attack, oscar_gold, ovation, joke, head, face, ceremony, smith
+
+Top 10 words for topic 4:
+leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+
+Top 10 words for topic 5:
+committed_work, action_smith, attention_achievement, confrontation_rock, life_look, regret_behavior, richard_williams, academy_instagram, rock_comedian, smith
+
+Top 10 words for topic 6:
+flee_shot, fighting_part, fighter_estimate, fight, sporadic_attack, rubble_siege, fire, crime, russian_force, mariupol
+
+Top 10 words for topic 7:
+leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+
+Top 10 words for topic 8:
+threshold, garnered_vote, hungary, hungary_support, point_return, question, home, opposition_home, isolated_position, orban
+
+Top 10 words for topic 9:
+second_smith, documentary_hair, auditorium_altercation, film_jane, demi_moore, stage, pinkett_smith, academy, smith, rock
+

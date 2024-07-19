@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+eu_country, government_support, industry, governments, contract, discussion, eu_plan, ton, yearslong_transition, coal
+
+Top 10 words for topic 1:
+strike_kyiv, ukrainians_home, combat_zone, mariupol, target, regiment_russians, congress, york, probe, steel_plant
+
+Top 10 words for topic 2:
+earth_remark, town, russians, life, force, bone, nation, crime, area, body
+
+Top 10 words for topic 3:
+refuel, dignitary, crew, decade, public_ceremony, others, partner, police, crowd, submarine
+
+Top 10 words for topic 4:
+week_wheat, family, release, barrel, invasion, population, lebanon, middle_east, inflation, price
+
+Top 10 words for topic 5:
+widodo, work, garage, bunker_beneath, bunker, steel_mill, night_zaporizhzhia, boston, azovstal, person
+
+Top 10 words for topic 6:
+higher_price, gasoline, department_energy, supply, oil_producer, capital_discipline, morning, company, release, barrel_oil
+
+Top 10 words for topic 7:
+bucha, ukrainian_authority, kyiv, number, port, child, zelenskyy, attack_capital, body, russian_troop
+
+Top 10 words for topic 8:
+federal_agency, district_stop, presidential_election, capitol_senate, impeach, airbnb, shot, mass, senate, government
+
+Top 10 words for topic 9:
+mariupol_zelenskyy, martha_raddatz, pulled_mariupol, yevheniia_kravchuk, department, ukrainian_soldier, nation_aid, confirm_visit, report_civilian, burn
+

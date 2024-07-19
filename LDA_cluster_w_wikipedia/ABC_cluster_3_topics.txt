@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+call, house_panel, supporter, decade, washington, government, mission, record, company, vekselberg
+
+Top 10 words for topic 1:
+putin, remark, president_joe, invasion, support, borrower, payment, student_debt, moratorium, lavrov
+
+Top 10 words for topic 2:
+security_assistance, sanction, putin, ukrainians, reporter, official, hour, zelenskyy, kyiv, kirby
+
+Top 10 words for topic 3:
+possibility, moscow, musk_tesla, sec, stake, zino, supply, share, march, musk
+
+Top 10 words for topic 4:
+concern, police, poll, activity, default, limit, minneapolis, investigation, department, social_medium
+
+Top 10 words for topic 5:
+martin, point_diagnosis, infection, pfizer, action, zelenskyy, julian_lennon, attack_capitol, brooks, paxlovid
+
+Top 10 words for topic 6:
+evacuation, ukrainian_woman, husband, china, view, bannon, lesson, investigation, look, india
+
+Top 10 words for topic 7:
+ap, donbas_region, force, kyiv_chernihiv, russian_troop, le_pen, weapon, age, reporter, russian_force
+
+Top 10 words for topic 8:
+minor_gain, civilian_woman, capital, responsible_content, food_drug, vaccine, pound, booster, second_booster, sanction
+
+Top 10 words for topic 9:
+recommended_experts, likely_die, support, discussion, move, fda, president_joe, prioritize, fourth_shot, vande_hei
+

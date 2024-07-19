@@ -1,0 +1,30 @@
+Top 10 words for topic 0:
+men, lot_call, lip_chin, law_kremlin, prisoner, bill, defense_ministry, name, sign_contract, jittery_prospect
+
+Top 10 words for topic 1:
+term_psaki, tv_job, family_focus, focused_job, similar_sentiment, future_employment, search, hold_job, public_service, msnbc
+
+Top 10 words for topic 2:
+effect_group, effect, educator, blasio, doe, court_mandate, challenge_move, uft, unit_member, employee
+
+Top 10 words for topic 3:
+term_psaki, tv_job, family_focus, focused_job, similar_sentiment, future_employment, search, hold_job, public_service, msnbc
+
+Top 10 words for topic 4:
+ukrainian_official, power, pound, imagery, increased_support, peace_action, peace, train_station, invasion, milley
+
+Top 10 words for topic 5:
+continent_ocean, table_doctrine, tabletop_exercise, concern, cause_risk, risk, everything, putin, psaki, threat
+
+Top 10 words for topic 6:
+congress, arm, effort, data, vaccine, waste, vaccine_dos, state, shot, dos
+
+Top 10 words for topic 7:
+month_plan, bill_something, full_senate, hope, stephanopoulos, safe_brave, oil_price, blunt, idea, court
+
+Top 10 words for topic 8:
+hand, recent_week, action, attack, group, appeared_deliberate, customer, network, modem, body
+
+Top 10 words for topic 9:
+term_psaki, tv_job, family_focus, focused_job, similar_sentiment, future_employment, search, hold_job, public_service, msnbc
+
