@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-release, action, way, president_joe, energy_price, price, house, reporter, paxlovid, body
+mass, white_house, others, work, smith, border, social_medium, department, zelenskyy, rock
 
 Top 10 words for topic 1:
-eastman, scene, statement, barrel_oil, release, malta, russian_force, white_house, committee, crime
+submarine, stake, share, increase, decision, moscow, company, child, musk, investigation
 
 Top 10 words for topic 2:
-title, ukrainians, body, follow_ap_coverage_http, mariupol, case, russian_troop, number, navy, russian_force
+kyiv, government, putin, price, jackson, smith, life, invasion, donbas, cawthorn
 
 Top 10 words for topic 3:
-donbas, russians, life, way, cawthorn, men, white_house, follow_ap_coverage_http, poland, moscow
+process, sanction, vehicle, crime, men, invasion, russian_troop, russian_force, orban, navy
 
 Top 10 words for topic 4:
-russians, kremlin, investigation, mariupol, men, follow_ap_coverage_http, putin, kyiv, russian_force, dos
+eastman, atrocity, white_house, force, moscow, mariupol, russians, kyiv, russian_force, crime
 
 Top 10 words for topic 5:
-china, musk, white_house, party, action, putin, election, moscow, orban, sanction
+china, support, body, atrocity, family, moscow, place, sanction, reporter, kyiv
 
 Top 10 words for topic 6:
-black_sea, russian_force, india, fire, mass, president, president_joe, invasion, others, family
+germany, ukrainians, congress, moscow, azovstal, revenue, job, family, others, white_house
 
 Top 10 words for topic 7:
-hour, jackson, comment, smith, crime, russian_troop, invasion, zelenskyy, president, mariupol
+ship, supply, state, shot, family, reporter, dos, mariupol, russian_force, putin
 
 Top 10 words for topic 8:
-steel_plant, economic_sanction, kyiv, ramadan, march, vekselberg, invasion, government, company, moscow
+moscow, family, russian_force, men, mariupol, death, case, ukrainians, release, barrel_oil
 
 Top 10 words for topic 9:
-department, fight, ship, child, ukrainian_force, way, putin, reporter, family, kyiv
+russian_troop, kremlin, number, moscow, body, russians, men, kyiv, putin, russian_force
 
