@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-case, russian_authority, krasilshchik_photo, denounced_basis, disturbed_report, doubt, vacation, activity, russian_force, attack
+support, western_country, pipeline, oil, gas_supply, delivery, china, poland, gazprom, moscow
 
 Top 10 words for topic 1:
-february_step, secretary_kyiv, phase, shift, sign_vibrant, drive_diplomacy, funding_request, embassy_kyiv, detention, false_information
+musk_intent, stock, congress, company, sec, stake, musk_tesla, zino, share, musk
 
 Top 10 words for topic 2:
-case, russian_authority, krasilshchik_photo, denounced_basis, disturbed_report, doubt, vacation, activity, russian_force, attack
+meant, american_student, chance, start, reed_parent, comment, charge, son_home, reed, president
 
 Top 10 words for topic 3:
-independence_area, heaven, food_shortage, exact_meaning, suggest_missile, prosecutor, kyiv_capital, zone_rebel, kyiv, zelenskyy
+investigation, fear, prison, family, minneapolis, limit, white_house, hostility, social_medium, department
 
 Top 10 words for topic 4:
-fivethirtyeight, flores, committee_court, refugee, coast_coast, support, claim, comment, map, committee
+measure, staffing_shortage, mask, ability, winter, someone, increase, covid, indoors, positivity_rate
 
 Top 10 words for topic 5:
-live_updates, railway_company, camera, governor_attack, envelope_questionnaire, attack, recruit_upwards, invasion, safer_region, russian_troop
+hour, kirby, mariupol, reporter, april, russian_force, death, russians, german_prosecutor, information
 
 Top 10 words for topic 6:
-case, russian_authority, krasilshchik_photo, denounced_basis, disturbed_report, doubt, vacation, activity, russian_force, attack
+city_countryside, limited_force, may, russians, democratic_party, diverse_time, force, revenue, putin, kremlin
 
 Top 10 words for topic 7:
-hospital_least, territory, ground, atrocity, kramatorsk, train_station, attack, child, russian_force, crime
+hear_witness, election, tax_probe, impact_business, donald, case_worldwide, sources_prosecutor, investigation, death, case
 
 Top 10 words for topic 8:
-case, russian_authority, krasilshchik_photo, denounced_basis, disturbed_report, doubt, vacation, activity, russian_force, attack
+hour, kirby, mariupol, reporter, april, russian_force, death, russians, german_prosecutor, information
 
 Top 10 words for topic 9:
-le_plan, law_deficit, tax, tax_wealthy, successor, large_part, deficit, democratic_party, diverse_time, revenue
+look_damage, combat_operation, eastern_pentagon, russians, reporter, russian_force, mariupol, kyiv, troop, kirby
 

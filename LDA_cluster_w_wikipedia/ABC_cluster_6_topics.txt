@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-goal, fire, life, explosion, april, family, troop, invasion, reporter, ship
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 
 Top 10 words for topic 1:
-number, men, gun, determine, surge, town, investigation, white_house, russian_force, child
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 
 Top 10 words for topic 2:
-mariupol, detail, port, democrats, life, side, sununu, moscow, donbas, cawthorn
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 
 Top 10 words for topic 3:
-power, body, moral_outrage, russians, ukrainians, putin, moscow, kyiv, russian_force, mariupol
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 
 Top 10 words for topic 4:
-finland_sweden, kemp, inflation, ukrainians, fight, moscow, family, men, putin, kyiv
+foreign_business, globe_agent, grand_jury, various_property, look_nothing, mansion, dollar, wherever_protectee, secret_service, family
 
 Top 10 words for topic 5:
-career, family, putin, capitol_attack, case, reporter, government, white_house, claim, men
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 
 Top 10 words for topic 6:
-vehicle, supreme_court, putin, briefly, missile, kyiv_chernihiv, hour, result, russian_force, moscow
+geneva, response_invasion, collaboration, member_nation, magnet, cern, sanction, belarus_russian, underground_ring, atom_smasher
 
 Top 10 words for topic 7:
-preliminary_injunction, vaccination_status, reed, son_home, police, family, men, president, scene, navy
+march_growth, institution, information_facility, devastation, bank_experience, kse_institute, russian_force, cost, result, damage
 
 Top 10 words for topic 8:
-prayer, company, number, china, supreme_court, ramadan, process, economic_sanction, place, body
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 
 Top 10 words for topic 9:
-invasion, force, march, russian_force, jackson, donbas, putin, kremlin, sanction, moscow
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
 

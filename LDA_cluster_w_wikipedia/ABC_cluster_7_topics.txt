@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-men, lot_call, lip_chin, law_kremlin, prisoner, bill, defense_ministry, name, sign_contract, jittery_prospect
+rock_comedian, leave_ceremony, rock, surge, infection, action, white_house, academy, oscars, smith
 
 Top 10 words for topic 1:
-term_psaki, tv_job, family_focus, focused_job, similar_sentiment, future_employment, search, hold_job, public_service, msnbc
+donbas, zelenskyy, kyiv, force, push, weapon, detention, international_community, false_information, russian_force
 
 Top 10 words for topic 2:
-effect_group, effect, educator, blasio, doe, court_mandate, challenge_move, uft, unit_member, employee
+attack_basurin, theatre_housing, statement, kherson_mykolaiv, reporter, number, widodo, work, rapid_halt, claim
 
 Top 10 words for topic 3:
-term_psaki, tv_job, family_focus, focused_job, similar_sentiment, future_employment, search, hold_job, public_service, msnbc
+daughter, line, poland, group, employee, television_tower, ukrainians, fight, moment, family
 
 Top 10 words for topic 4:
-ukrainian_official, power, pound, imagery, increased_support, peace_action, peace, train_station, invasion, milley
+effort, shot, others, group, idea, blunt, scene, appeared_deliberate, court, body
 
 Top 10 words for topic 5:
-continent_ocean, table_doctrine, tabletop_exercise, concern, cause_risk, risk, everything, putin, psaki, threat
+reporter, question, genocide, comment, ground, president, weapon, orban, crime, atrocity
 
 Top 10 words for topic 6:
-congress, arm, effort, data, vaccine, waste, vaccine_dos, state, shot, dos
+woman, congress, ukrainian_woman, husband, father, conservative_government, family, threat, risk, evacuation
 
 Top 10 words for topic 7:
-month_plan, bill_something, full_senate, hope, stephanopoulos, safe_brave, oil_price, blunt, idea, court
+putin, missile, mariupol, size, jepchirchir, booster, second_booster, kremlin, weapon, goal
 
 Top 10 words for topic 8:
-hand, recent_week, action, attack, group, appeared_deliberate, customer, network, modem, body
+government, reach, brooks, nobody_belief, production, price, vehicle, power, moral_outrage, putin
 
 Top 10 words for topic 9:
-term_psaki, tv_job, family_focus, focused_job, similar_sentiment, future_employment, search, hold_job, public_service, msnbc
+pentagon, others, boston, stock, development, dollar, default, student_debt, moratorium, office
 

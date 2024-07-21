@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-situation, smith_form, smith_officially, trophy_family, leave_ceremony, action, rock, hostility, oscars, smith
+company, germany, supply, kyiv, ukrainian_force, barrel_oil, release, march, putin, moscow
 
 Top 10 words for topic 1:
-leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+oil, submarine, malta, ramadan, russians, police, mariupol, poland, rock, steel_plant
 
 Top 10 words for topic 2:
-leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+mission, russians, mariupol, crime, paxlovid, economic_sanction, beijing, putin, orban, china
 
 Top 10 words for topic 3:
-slap, smith_act, smith_attack, oscar_gold, ovation, joke, head, face, ceremony, smith
+office, official, capital, vaccination_status, border, russian_force, zelenskyy, reporter, cawthorn, navy
 
 Top 10 words for topic 4:
-leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+russians, port_mariupol, mariupol, russian_force, inflation, others, price, moscow, donbas, kyiv
 
 Top 10 words for topic 5:
-committed_work, action_smith, attention_achievement, confrontation_rock, life_look, regret_behavior, richard_williams, academy_instagram, rock_comedian, smith
+black_sea, moskva, fire, invasion, attack, kyiv, body, russian_force, child, russian_troop
 
 Top 10 words for topic 6:
-flee_shot, fighting_part, fighter_estimate, fight, sporadic_attack, rubble_siege, fire, crime, russian_force, mariupol
+european_union, pound, bucha, eu, president_joe, sununu, atrocity, zelenskyy, india, sanction
 
 Top 10 words for topic 7:
-leave_ceremony, action, academy_instagram, rock_comedian, confrontation_rock, regret_behavior, richard_williams, life_look, smith, academy
+congress, hateful_bill, waste, sacramento_police, child, vaccine_dos, ukrainians, shot, state, dos
 
 Top 10 words for topic 8:
-threshold, garnered_vote, hungary, hungary_support, point_return, question, home, opposition_home, isolated_position, orban
+russian_force, sanctions, aircraft, government, town, fight, sanction, invasion, moscow, reporter
 
 Top 10 words for topic 9:
-second_smith, documentary_hair, auditorium_altercation, film_jane, demi_moore, stage, pinkett_smith, academy, smith, rock
+case, hour, scene, woman, briefly, investigation, number, police, child, men
 

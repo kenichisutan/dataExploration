@@ -1,0 +1,209 @@
+Cluster 0:
+Topic 1:
+treatment, remark, severe_consequence, official, receive_treatment, money, official_week, simply, president, white_house
+
+Topic 2:
+interview_ivanka, investigation, walk_capitol, congress_committee, house_panel, insurrection_capitol, capitol, supporter, call, record
+
+Topic 3:
+vaccine, remark, severe_consequence, official, receive_treatment, money, official_week, simply, president, white_house
+
+Topic 4:
+judge, isolation, court_risk, crackdown_movement, decision_matter, impossible_continue, hong_kong, point, oppressive_law, china
+
+
+Cluster 1:
+Topic 1:
+senator_democrats, vote_senate, final_vote, aisle_vote, enough_vote, george_stephanopoulos, major_milestone, confirmation, white_house, committee
+
+Topic 2:
+pale_drawn, ceiling_mold, others, supreme_court, milley, bunker, steel_mill, night_zaporizhzhia, bunker_beneath, azovstal
+
+Topic 3:
+panel, vote, presidential_election, associate_contact, scavino, election, democrats, president, bannon, committee
+
+Topic 4:
+white_house, committee, responsible_cost, backup_plan, travel, insurance, pet_pandemic, ap, travel_company, destination
+
+Topic 5:
+justice_department, support, white_house, likely_president, court, campaign, crime, map, eastman, committee
+
+Topic 6:
+bench, supporter, testimony_meeting, continued_collins, pledge, person, justice, probation_officer, every_vote, jackson
+
+Topic 7:
+artillery_missile, eastern_flank, kyiv, guilty_trial, reporter, ground, lawmaker, mariupol_ukrainians, russian_force, ukrainians
+
+Topic 8:
+event, nation, activist_judge, transgender_visibility, supreme_court, president_joe, point, jackson, republicans, process
+
+Topic 9:
+military_site, look_conflict, zelensky_netherlands, key_role, part_donbas, russian_force, victory_nazism, victory, putin, donbas
+
+
+Cluster 2:
+Topic 1:
+statement, staff_addition, concern, contact, day_advance, positive_case, pandemic, negotiate, strike, resource
+
+Topic 2:
+life_condition, line_diplomacy, mental_harm, myanmar, number_death, physical_destruction, president, simon, russian_force, genocide
+
+Topic 3:
+run_office, step_join, point, political_commentator, president_palin, public_eye, public_service, facebook_page, young, palin
+
+
+Cluster 3:
+Topic 1:
+kremlin_invasion, believe, bank_support, yacht_sanction, police, medium_report, february_vekselberg, document, associated_press, source
+
+Topic 2:
+bill_bill, chew_floor, substance, cold_nation, congress, senate, position, president_authority, law_lawmakers, response_invasion
+
+Topic 3:
+green_card, renova_group, group, hush_money, investment_vekselberg, madrid_balsamo, memo, march, spain, vekselberg
+
+
+Cluster 4:
+Topic 1:
+company, germany, supply, kyiv, ukrainian_force, barrel_oil, release, march, putin, moscow
+
+Topic 2:
+oil, submarine, malta, ramadan, russians, police, mariupol, poland, rock, steel_plant
+
+Topic 3:
+mission, russians, mariupol, crime, paxlovid, economic_sanction, beijing, putin, orban, china
+
+Topic 4:
+office, official, capital, vaccination_status, border, russian_force, zelenskyy, reporter, cawthorn, navy
+
+Topic 5:
+russians, port_mariupol, mariupol, russian_force, inflation, others, price, moscow, donbas, kyiv
+
+Topic 6:
+black_sea, moskva, fire, invasion, attack, kyiv, body, russian_force, child, russian_troop
+
+Topic 7:
+european_union, pound, bucha, eu, president_joe, sununu, atrocity, zelenskyy, india, sanction
+
+Topic 8:
+congress, hateful_bill, waste, sacramento_police, child, vaccine_dos, ukrainians, shot, state, dos
+
+Topic 9:
+russian_force, sanctions, aircraft, government, town, fight, sanction, invasion, moscow, reporter
+
+Topic 10:
+case, hour, scene, woman, briefly, investigation, number, police, child, men
+
+
+Cluster 5:
+Topic 1:
+set_proposal, doubt_work, declaration, vote, crime, reporter, body, kyiv, reporter_minister, change
+
+Topic 2:
+investigation_atrocity, russian_soldier, confirmation_statement, humanitarian_aid, international_community, raid, atrocity, crimea, body, kyiv
+
+Topic 3:
+system, energy_contract, storage_capacity, idea, gas_supplier, financial_sanction, others, change, reporter_minister, euro_dollar
+
+Topic 4:
+order, member, justice, interview_session, international_body, wrong_let, indictment_system, outcome, vote, crime
+
+Topic 5:
+serious_damage, ship_kirby, certainty_afternoon, stability, sense_damage, sevastopol_crimea, moskva, reporter, explosion, ship
+
+Topic 6:
+considerable_impact, open_end, demand_delivery, moscow_fuel, radical_plan, washington, demand, plan, concern_moscow, supply
+
+Topic 7:
+moscow, hand, russian_warship, effort, conflict, kyiv, body, invasion, black_sea, fire
+
+
+Cluster 6:
+Topic 1:
+underground_ring, geneva, response_invasion, belarus_russian, collaboration, member_nation, magnet, sanction, cern, cost
+
+Topic 2:
+foreign_business, globe_agent, grand_jury, various_property, look_nothing, mansion, dollar, wherever_protectee, secret_service, family
+
+Topic 3:
+geneva, response_invasion, collaboration, member_nation, magnet, cern, sanction, belarus_russian, underground_ring, atom_smasher
+
+Topic 4:
+march_growth, institution, information_facility, devastation, bank_experience, kse_institute, russian_force, cost, result, damage
+
+
+Cluster 7:
+Topic 1:
+rock_comedian, leave_ceremony, rock, surge, infection, action, white_house, academy, oscars, smith
+
+Topic 2:
+donbas, zelenskyy, kyiv, force, push, weapon, detention, international_community, false_information, russian_force
+
+Topic 3:
+attack_basurin, theatre_housing, statement, kherson_mykolaiv, reporter, number, widodo, work, rapid_halt, claim
+
+Topic 4:
+daughter, line, poland, group, employee, television_tower, ukrainians, fight, moment, family
+
+Topic 5:
+effort, shot, others, group, idea, blunt, scene, appeared_deliberate, court, body
+
+Topic 6:
+reporter, question, genocide, comment, ground, president, weapon, orban, crime, atrocity
+
+Topic 7:
+woman, congress, ukrainian_woman, husband, father, conservative_government, family, threat, risk, evacuation
+
+Topic 8:
+putin, missile, mariupol, size, jepchirchir, booster, second_booster, kremlin, weapon, goal
+
+Topic 9:
+government, reach, brooks, nobody_belief, production, price, vehicle, power, moral_outrage, putin
+
+Topic 10:
+pentagon, others, boston, stock, development, dollar, default, student_debt, moratorium, office
+
+
+Cluster 8:
+Topic 1:
+support, western_country, pipeline, oil, gas_supply, delivery, china, poland, gazprom, moscow
+
+Topic 2:
+musk_intent, stock, congress, company, sec, stake, musk_tesla, zino, share, musk
+
+Topic 3:
+meant, american_student, chance, start, reed_parent, comment, charge, son_home, reed, president
+
+Topic 4:
+investigation, fear, prison, family, minneapolis, limit, white_house, hostility, social_medium, department
+
+Topic 5:
+measure, staffing_shortage, mask, ability, winter, someone, increase, covid, indoors, positivity_rate
+
+Topic 6:
+hour, kirby, mariupol, reporter, april, russian_force, death, russians, german_prosecutor, information
+
+Topic 7:
+city_countryside, limited_force, may, russians, democratic_party, diverse_time, force, revenue, putin, kremlin
+
+Topic 8:
+hear_witness, election, tax_probe, impact_business, donald, case_worldwide, sources_prosecutor, investigation, death, case
+
+Topic 9:
+look_damage, combat_operation, eastern_pentagon, russians, reporter, russian_force, mariupol, kyiv, troop, kirby
+
+
+Cluster 9:
+Topic 1:
+military_action, mastercard, march, location, join, international_market, inbound, ngo_partner, belarus, situation
+
+Topic 2:
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
+
+Topic 3:
+second, global_outrage, general_assembly, favor, civilian_vote, resignation_kuzmin, condemn, resolution_vote, blinken, majority
+
+Topic 4:
+judge_memo, judge, evidence_court, ten_court, eastman, capitol, likely_president, state_january, house_committee, document
+
+

@@ -12,7 +12,7 @@ from preprocess import preprocess_text, lemmatize_text, get_noun_phrases, load_a
 # Step 1: Feature Extraction for Clustering using TF-IDF
 def extract_features(texts, stop_words):
     stop_words_list = list(stop_words)  # Convert stop_words set to list
-    vectorizer = TfidfVectorizer(stop_words=stop_words_list, max_df=0.5, max_features=2000)
+    vectorizer = TfidfVectorizer(stop_words=stop_words_list, max_df=0.5, max_features=5000)
     tfidf_matrix = vectorizer.fit_transform(texts)
     return tfidf_matrix, vectorizer
 

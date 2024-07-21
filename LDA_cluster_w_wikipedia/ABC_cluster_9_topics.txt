@@ -1,30 +1,30 @@
 Top 10 words for topic 0:
-eu_country, government_support, industry, governments, contract, discussion, eu_plan, ton, yearslong_transition, coal
+military_action, mastercard, march, location, join, international_market, inbound, ngo_partner, belarus, situation
 
 Top 10 words for topic 1:
-strike_kyiv, ukrainians_home, combat_zone, mariupol, target, regiment_russians, congress, york, probe, steel_plant
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
 Top 10 words for topic 2:
-earth_remark, town, russians, life, force, bone, nation, crime, area, body
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
 Top 10 words for topic 3:
-refuel, dignitary, crew, decade, public_ceremony, others, partner, police, crowd, submarine
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
 Top 10 words for topic 4:
-week_wheat, family, release, barrel, invasion, population, lebanon, middle_east, inflation, price
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
 Top 10 words for topic 5:
-widodo, work, garage, bunker_beneath, bunker, steel_mill, night_zaporizhzhia, boston, azovstal, person
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
 Top 10 words for topic 6:
-higher_price, gasoline, department_energy, supply, oil_producer, capital_discipline, morning, company, release, barrel_oil
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
 Top 10 words for topic 7:
-bucha, ukrainian_authority, kyiv, number, port, child, zelenskyy, attack_capital, body, russian_troop
+second, global_outrage, general_assembly, favor, civilian_vote, resignation_kuzmin, condemn, resolution_vote, blinken, majority
 
 Top 10 words for topic 8:
-federal_agency, district_stop, presidential_election, capitol_senate, impeach, airbnb, shot, mass, senate, government
+judge_memo, judge, evidence_court, ten_court, eastman, capitol, likely_president, state_january, house_committee, document
 
 Top 10 words for topic 9:
-mariupol_zelenskyy, martha_raddatz, pulled_mariupol, yevheniia_kravchuk, department, ukrainian_soldier, nation_aid, confirm_visit, report_civilian, burn
+mallorca, jurisdiction, united_sates, party, oligarch_authority, difficult_authority, court_document, sanction_yacht, asset_nobody, washington_target
 
