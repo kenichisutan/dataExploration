@@ -68,7 +68,8 @@ def lda_on_clusters(raw_texts, clusters, name):
 
     # Save all clusters to a single text file
     with open(f'{name}_clusters.txt', 'w') as f:
-        for cluster_id in cluster_df['cluster'].unique():
+        sorted_clusters = sorted(cluster_df['cluster'].unique())
+        for cluster_id in sorted_clusters:
             cluster_texts_count = len(cluster_df[cluster_df['cluster'] == cluster_id])
             f.write(f"\nCluster {cluster_id} (Total Articles: {cluster_texts_count}):\n")
             print(f"\nCluster {cluster_id} (Total Articles: {cluster_texts_count}):\n")
