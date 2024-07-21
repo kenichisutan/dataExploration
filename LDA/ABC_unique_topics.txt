@@ -1,0 +1,238 @@
+Unique Topics:
+Topic 1:
+military_target, rubble_siege, kremlin, fighter_estimate, fighting_part, victory, sporadic_attack, mariupol, russian_force, hostility
+
+Topic 2:
+slain_teenager, aftermath_mass, cry_verdetto, investigator, window_look, building_verdetto, nation, mass, shot, airbnb
+
+Topic 3:
+real_effort, weapon, breath, military_strike, hundreds, likelihood, person, boston, garage, international_community
+
+Topic 4:
+kyiv, george_president, economy_republicans, action, support_klain, klain_democrats, klain, look, others, rampant_inflation
+
+Topic 5:
+russians, russian_bombardment, russian_force, humanitarian_law, force, kyiv, government, senate, resistance, mariupol
+
+Topic 6:
+incident_supporter, unclear_force, decision_nato, finland_sweden, police, others, donbas, syria, fire, black_sea
+
+Topic 7:
+threat, personal_circumstance, extended_period, navy_seals, sailor_statement, sailor, vaccination_status, action_sailor, preliminary_injunction, navy
+
+Topic 8:
+message_express, escape_conflict, humanitarian_group, ukrainian_refugee, pope_prayer, francis, libya_malta, coal, eu, malta
+
+Topic 9:
+missile, security_council, donbas_region, grain, republicans, anything, capital, russian_force, process, kyiv_chernihiv
+
+Topic 10:
+information, york, everything, civil_investigation, value_asset, motion, child, testimony_organization, fraud, corporate_insider
+
+Topic 11:
+wounded_barrage, scream_victims, bullet_wound, teenager, begin_work, response_invasion, others, mask, town, party
+
+Topic 12:
+facility_export, delivery, poland, poland_bulgaria, program, poland_parliament, oil, china, sanction, moscow
+
+Topic 13:
+relation_situation, civilian_shield, steel_plant, opportunity, table_guterres, opposite_end, woman, reporter_guterres, leader, cessation_hostility
+
+Topic 14:
+mission, earth, crime, nobody_belief, isolated_position, opposition_home, power, moral_outrage, orban, putin
+
+Topic 15:
+stressed_come, discussion_ukrainians, vehicle_aircraft, aircraft_need, invasion_official, troop_casualty, pentagon, palin, missile, milley
+
+Topic 16:
+atrocity_saw, allegation_aim, allegation_atrocity, right_council, netherlands, atrocity, vande_hei, sanction, russian_troop, bucha
+
+Topic 17:
+gag, action, mention_rock, leave_ceremony, attack, oscar, charge, rock, oscars, smith
+
+Topic 18:
+neighborhood_poorer, mitigation_measure, death_rate, drug_treatment, result, person, white_house, life, infection, risk
+
+Topic 19:
+large_fire, large_explosion, advantage_sunny, area_region, kyiv_resident, kyiv_region, capture, moskva, defense_ministry, body
+
+Topic 20:
+volunteer_contract, russians, member_country, crowd, secret_service, putin, submarine, force, family, kremlin
+
+Topic 21:
+displaced_home, back_civilians, reporter, kyiv, bannon, family_member, white_house, round_sanction, putin, kirby
+
+Topic 22:
+press, russian_troop, side, effort_investigate, combat_task, video_footage, sanction_package, russian_force, child, crime
+
+Topic 23:
+mariupol, surpass, podolyak_tweet, force, blow, poisonous_substance, urban_area, attack_capitol, government, goal
+
+Topic 24:
+crew_member, comment, woman, fire, dozen_others, flagship_cruiser, moskva, black_sea, family, jackson
+
+Topic 25:
+camera, statehouse, senate_alabama, make, election, experts, ukrainians_unit, brooks, sullivan, sanction
+
+Topic 26:
+euro_dollar, ukrainians, complete_disaster, capital, mine, moscow, mariupol, zelenskyy, russians, russian_force
+
+Topic 27:
+enemy_force, fight, lead_soldier, russian_target, column, factor, weapon_system, benefit, kyiv, sununu
+
+Topic 28:
+meet, humanitarian_need, tough_time, demand_consumers, stop_list, middle_east, population, lebanon, inflation, price
+
+Topic 29:
+lawmaker, mass, crime, area, identity, frank_turner, woman, life, sacramento, body
+
+Topic 30:
+barrel, release, campaign, scavino, panel, court, crime, violence, eastman, committee
+
+Topic 31:
+place, genocide_charge, kyiv, development, troop, pressure, stock, genocide, simon, russian_force
+
+Topic 32:
+damage, gazprom, moscow, result, poland, positivity_rate, covid, indoors, booster, second_booster
+
+Topic 33:
+supreme_court, reporter, company, jackson, insurrection_capitol, call, house_panel, capitol, supporter, record
+
+Topic 34:
+kyiv_pentagon, atom_smasher, official, ukrainians, southern_port, weapon, mariupol_ukrainians, release, russian_force, barrel_oil
+
+Topic 35:
+region, sole_battery, military_training, indication_system, addition, home_pentagon, training_ukrainians, north_izium, move, ukrainians
+
+Topic 36:
+attack, committee, group, iran, reporter, decision, network, hour, customer, modem
+
+Topic 37:
+silenced_doubter, question, sensitive_issue, try, past_intelligence, mass_destruction, intelligence_putin, britain, intelligence, putin
+
+Topic 38:
+neighborhood, load_body, pinkett_smith, moscow, number_civilian, donbas, kyiv, crime, port_mariupol, rock
+
+Topic 39:
+missile_strike, ukrainian_fighter, evacuate, ruin_merciless, bid, moscow, mariupol, port_mariupol, kyiv, russian_force
+
+Topic 40:
+hospital_lester, horrific_accius, statement, mourn_life, crisis, officer, police, men, another_community, scene
+
+Topic 41:
+army, phrased_allows, ceremony, smith, price, inflation, defense_ministry, jittery_prospect, name, sign_contract
+
+Topic 42:
+start, fort_worth, case_worldwide, death, detention, reed, son_home, president, false_information, case
+
+Topic 43:
+contract_currency, contract, odds, reporter, set_proposal, videoconference, demand, power_convert, sacramento_police, possession_firearm
+
+Topic 44:
+operate, affiliation, contingency_plan, product_sale, multinational, beijing, belarus, situation, investigation, china
+
+Topic 45:
+reporter, bloc, condemn, negative_sentiment, moscow, end_topic, place, beijing, china, economic_sanction
+
+Topic 46:
+warning_message, bar_live, drug_shortage, ap_bespalov, doctor, result, logistical_problem, invasion, supply, march
+
+Topic 47:
+crimea_source, distanced_field, humanitarian_aid, eight_others, fall_foliage, found_hand, kyiv, numerous_crime, boston, minute
+
+Topic 48:
+calendar, strategic_plan, march_announcement, scenario, projection_sbcc, moscow, defender, donbas, poland, russian_coal
+
+Topic 49:
+work, widodo, surge, infection, man, injured_dozen, gun, prison_week, determine, white_house
+
+Topic 50:
+interview_claim, ambition, lavrov, claim, sex_party, office, attack_capital, body, russian_troop, cawthorn
+
+Topic 51:
+break_defense, key_role, area, escalation, send_weapon, ukrainian_force, city_town, military_site, history, office
+
+Topic 52:
+ukrainian_border, hhs, aid, invasion, vehicle, supply_problem, production, ukrainian_force, price, troop
+
+Topic 53:
+floyd_family, flow_troop, flour, following_failure, germany, renewable_energy, gdp, fourth_quarter, version_story, growth_forecast
+
+Topic 54:
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
+
+Topic 55:
+week_father, database, mass, girl, multiple_block, saw_victim, shooter, scene, jepchirchir, woman
+
+Topic 56:
+bunker_beneath, victory_nazism, former_president, donald, reelection, perdue, donbas, putin, azovstal, kemp
+
+Topic 57:
+part, president, investigation, limit, minneapolis, transgender_visibility, reelection, hateful_bill, department, social_medium
+
+Topic 58:
+america, conduct, winner_quiz, measure, president_joe, transgender_kid, bill_states, lgbtq, continued_bill, transgender_visibility
+
+Topic 59:
+order_missile, chancellor, parent_stole, church, body_mass, zone_rebel, reporter, zelenskyy, explosion, ship
+
+Topic 60:
+hospitalization, fourth_shot, population, vaccine, child, waste, vaccine_dos, shot, state, dos
+
+Topic 61:
+shareholder, money_tesla, kremlin, goal, musk_tesla, zino, stake, sec, share, musk
+
+Topic 62:
+conflict, hell, proposal, home_kyrylenko, congress, democratic_party, diverse_time, putin, threat, revenue
+
+Topic 63:
+kyiv, illegal_invasion, others, video, detroit, brazen_conspiracy, men, steel_plant, argument_trial, roth
+
+Topic 64:
+arm, invasion, crime, chancellor, ukrainian_official, bank_lending, russian_force, resident_town, supreme_court, lesson
+
+Topic 65:
+student_debt, governor, poll, moratorium, safer_region, invasion, recruit_upwards, step, russian_troop, paxlovid
+
+Topic 66:
+document_computer, hush_money, investment_vekselberg, decade, billionaire, company, march, superyacht_lena, spain, vekselberg
+
+Topic 67:
+reporter, smith, russian_force, zelenskyy, genocide, president, comment, ground, crime, atrocity
+
+Topic 68:
+radiation, russian_soldier, force, risk_russians, others, ukrainian_authority, karmanau, carry_order, site, part
+
+Topic 69:
+conviction, united_states, attack, battleground, matter_week, train, sign_vibrant, reason, embassy_kyiv, china
+
+Topic 70:
+condemn_extremist, october, something_fiction, china, china_august, kidnap_governor, life_prison, case, croft, men
+
+Topic 71:
+effect, pay_york, educator, payroll_april, court, bill, hear_case, school_system, germany, employee
+
+Topic 72:
+gas_norway, car_electricity, energy_market, pandemic, father, family, conservative_government, concern_moscow, plan, supply
+
+Topic 73:
+series_explosion, rising_price, person, number, poland, capitol_attack, army, etue, american_citizen, claim
+
+Topic 74:
+sanction, hand, putin, appeared_deliberate, group, moment, ukrainians, fight, family, body
+
+Topic 75:
+long_foot, hope, action_son, meet_president, joey_reed, start_pandemic, family, fear, white_house, prison
+
+Topic 76:
+dawn_dusk, russian_force, body, prayer, price, steel_plant, russians, ramadan, india, mariupol
+
+Topic 77:
+row, donbas, putin, military_east, photo, ukrainians, mariupol, kremlin, fire, moscow
+
+Topic 78:
+reject_proposal, candidate, campaign_ad, trend, madison_cawthorn, congressional_map, european_union, republicans, sanction, orban
+
+Topic 79:
+child_home, unspeakable_crime, local_resident, everything, meeting, ukrainian_nazis, number, ukrainian_child, overturn_philadelphia, child
+

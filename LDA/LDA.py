@@ -45,7 +45,7 @@ def lda(all_text, name, stop_words):
     vectorizer = CountVectorizer(stop_words=list(stop_words))
     X = vectorizer.fit_transform(all_text)
 
-    lda = LatentDirichletAllocation(n_components=10, random_state=0)
+    lda = LatentDirichletAllocation(n_components=80, random_state=0)
     lda.fit(X)
 
     topic_words = []
