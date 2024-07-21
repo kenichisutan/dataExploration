@@ -1,240 +1,300 @@
 Top 10 words for topic 0:
-price, statement, president, putin, cawthorn, invasion, barrel, kyiv, russian_force, china
+russian_force, chernihiv, march, sanction, invasion, putin, issue, united_states, president, china
 
 Top 10 words for topic 1:
-russian_troop, question, area, crime, election, sununu, digital, woman, body, supreme_court
+moscow, crime, sanction, european_union, various_spot, atrocity, kyiv, area, body, bucha
 
 Top 10 words for topic 2:
-ukrainians, putin, supreme_court, invasion, statement, moscow, russian_troop, president_joe, sanction, president
+gap, ukrainians, russian_troop, white_house, start, nato, reason, invasion, woman, president
 
 Top 10 words for topic 3:
-saw, committee, president, death, party, court, russian_force, support, political_decision, congress
+election, campaign, cup, organization, place, email, york_times, donald, story, york_post
 
 Top 10 words for topic 4:
-men, law, morning_invasion, russian_force, mandel, putin, kyiv, gibbons, missile, part
+moment, part_job, stage, oscar, check, academy, chris_rock, oscars, rock, smith
 
 Top 10 words for topic 5:
-biology, china, word, case, state, united_states, cruz, putin, sanction, woman
+everything, woman, nation, sanction, men, russians, home, putin, project_veritas, president
 
 Top 10 words for topic 6:
-may, newman, dollar, congress, life, president, plan, decision, lawmaker, bank
+republicans, anything, effort, case, thomas, former_president, sanction, putin, continue, lawmaker
 
 Top 10 words for topic 7:
-statement, crime, kirby, germany, putin, area, plan, kyiv, president, invasion
+reminder_stake, senate_confirmation, invasion, president, judge_jackson, justice_breyer, vote, look, putin, supreme_court
 
 Top 10 words for topic 8:
-jackson, others, united_states, craighead, white_house, kyiv, nato, moscow, russian_force, putin
+kyiv, russians, russian_troop, capital, visit, town, ukrainians, child, putin, russian_force
 
 Top 10 words for topic 9:
-city_town, jackson, zelenskyy, video, support, family, talk, invasion, china, kyiv
+state, kyiv, vehicle, production, body, action, mariupol, invasion, china, putin
 
 Top 10 words for topic 10:
-weapon, former_president, conflict, eu, white_house, west, troop, putin, body, moscow
+leader, salesforce, hand, palin, former_president, voter, statement, china, putin, president
 
 Top 10 words for topic 11:
-gas, cubic_meter, united_states, germany, nato, russian_force, putin, ukrainian_force, area, mariupol
+support, history_book, military_action, kyiv, payment, image, psaki, united_states, pomerantz, zelenskyy
 
 Top 10 words for topic 12:
-mariupol, email, putin, question, hawley, democrats, russian_force, child, judge_jackson, president
+question, evidence, georgia, company, child, house, police, kyiv, russian_force, putin
 
 Top 10 words for topic 13:
-obama, support, case, putin, election, kyiv, white_house, decision, family, president
+ship, federal_judge, company, data, statement, president, nato, president_joe, support, putin
 
 Top 10 words for topic 14:
-letter, case, kyiv, crime, pomerantz, russians, putin, russian_force, men, china
+book, others, freedom, statement, criticism, death, family, genocide, woman, albright
 
 Top 10 words for topic 15:
-white_house, press, kyiv, jackson, putin, beijing, case, moscow, judge_jackson, china
+board, role, stage_rock, jada, beijing, china, sweden, white_house, putin, zelensky
 
 Top 10 words for topic 16:
-facebook, reposts, nato, united_states, social_medium, post, total, statement, share, retweets
+nothing, everything, child, espionage, mission, kid, russians, digital, family, president
 
 Top 10 words for topic 17:
-plan, sanction, putin, tax, work, action, video, social_medium, president, jackson
+republicans, home, finland, conflict, white_house, border, nato, company, president, democrats
 
 Top 10 words for topic 18:
-kyiv, refugee, part, force, united_states, invasion, democrats, industry, fossil_fuel, planet
+pattern, investment, russians, democrats, morning_invasion, fossil_fuel, industry, planet, missile, part
 
 Top 10 words for topic 19:
-life, moscow, orban, money, congress, putin, president, inflation, force, kyiv
+house, white_house, case, united_states, congress, comment, cawthorn, president, office, putin
 
 Top 10 words for topic 20:
-town, president, bucha, white_house, secretary_state, albright, family, body, appeared_deliberate, kyiv
+venue, white_house, president, supreme_court, china, meeting_kyiv, red_eye, fact, abramovich, kyiv
 
 Top 10 words for topic 21:
-moment, reporter, party, united_states, judge_jackson, comment, barr, president, russians, putin
+comment, barr, data, putin, power, continue, president, force, russian_force, kyiv
 
 Top 10 words for topic 22:
-inflation, moscow, policy, west, ukrainian_president, washington, president, china, deal, democrats
+senate_republicans, case, village_motyzhyn, kyiv_chernihiv, economy, bay, russian_force, democrats, president, policy
 
 Top 10 words for topic 23:
-reporter, preliminary_injunction, vaccination_status, russian_force, china, invasion, jackson, supreme_court, sailor, navy
+anything, ukrainians, russian_force, supreme_court, vaccination_status, preliminary_injunction, sailor, vehicle, mariupol, navy
 
 Top 10 words for topic 24:
-sanction, putin, men, kemp, russians, support, invasion, democrats, question, woman
+invasion, concern, investigation, sanction, united_states, woman, money, russians, family, putin
 
 Top 10 words for topic 25:
-russian_force, putin, kyiv, white_house, jackson, democrats, sanction, invasion, president, troop
+justice, case, durbin, judge, graham, democrats, judge_jackson, republicans, jackson, supreme_court
 
 Top 10 words for topic 26:
-question, manchin, family, risk, percent, russian_troop, case, february, white_house, putin
+intelligence, february, border, dhs, white_house, russian_force, kyiv, president, ukrainians, putin
 
 Top 10 words for topic 27:
-office, bragg, nato, case, document, china, information, prosecutor, ukrainians, investigation
+economy, taliban, president_joe, package, reporter, inflation, sanction, cawthorn, plan, united_states
 
 Top 10 words for topic 28:
-crime_wave, covid, campaign, york_times, york_post, place, story, donald, election, email
+circumstance_subject, america_enters, scenario, somehow, international_law, chemical, president, issue, statement, press_conference
 
 Top 10 words for topic 29:
-kadyrov, mariupol, checkpoint_brovary, invasion, system, moscow, congress, russians, president, putin
+policy_taiwan, continue, disinformation, decision, attention, putin, support, china, president, xi
 
 Top 10 words for topic 30:
-borrower, monthly_payment, white_house, crime, email, election, committee, putin, project_veritas, president
+federal_repayment, life, representative, loan_repayment, may, borrower, another_extension, plan, decision, bank
 
 Top 10 words for topic 31:
-april, russians, lawyer, missile, election, russian_troop, democrats, cawthorn, president, putin
+russian_soldier, criminal_group, critical_infrastructure, russian_force, order, force, threat, intelligence, question, putin
 
 Top 10 words for topic 32:
-hungary, moscow, claim, russian_troop, election, effort, men, putin, white_house, president
+success, peace_talk, rise, gas_price, demand, moscow, assault, white_house, president, china
 
 Top 10 words for topic 33:
-zelenskyy, black_woman, place, donald, invasion, fact, march, men, desantis, president
+statement, side, money, election, gibbons, european_union, point, spending_bill, democrats, president
 
 Top 10 words for topic 34:
-justice, body, invasion, plan, percent, march, russian_force, supreme_court, putin, president
+albright, invasion, energy, sanction, eu, family, democrats, russian_force, putin, move
 
 Top 10 words for topic 35:
-peace_talk, donald_habit, fed_paper, opec, sound_week, gas_price, cartel, rise, putin, president
+power, washington, truth, medium, democrats, president, family, white_house, supreme_court, putin
 
 Top 10 words for topic 36:
-president_joe, kyiv, supreme_court, congress, russian_force, moscow, invasion, jackson, putin, russian_troop
+invasion, president, russian_troop, msnbc, jackson, march, comment, sanction, republicans, putin
 
 Top 10 words for topic 37:
-poland, crime, claim, president, nato, gas, finland, law, invasion, putin
+russian_force, march, everyone, death, part, germany, list, emergency, invasion, putin
 
 Top 10 words for topic 38:
-price, klain, white_house, putin, money, democrats, president, image, republicans, economy
+element, prof_point, prices, supply_constraint, inflation, president, united_states, invasion, democrats, image
 
 Top 10 words for topic 39:
-company, mariupol, kyiv, russians, united_states, invasion, russian_troop, russian_force, republicans, moscow
+resident, body, russian_troop, men, home, putin, area, ukrainian_force, russian_force, mariupol
 
 Top 10 words for topic 40:
-woman, event, case, president_joe, putin, invasion, determine, man, democrats, republicans
+russian_force, state, nato, health_law, washington, president, obama, party, united_states, invasion
 
 Top 10 words for topic 41:
-white_house, judge_jackson, democrats, budget, russian_force, republicans, russians, putin, percent, force
+economy, policy_standard, november, american_company, oil_gas, ally, fear, gasoline_price, invasion, president
 
 Top 10 words for topic 42:
-russian_troop, action, nato, democrats, invasion, president, congress, russians, republicans, putin
+russians, invasion, kyiv, russian_force, moscow, nato, putin, force, republicans, president
 
 Top 10 words for topic 43:
-part_job, stage, moment, oscar, academy, chris_rock, check, oscars, rock, smith
+goal, trust_academy, invasion, west, zelensky, border, russian_force, statement, president, nato
 
 Top 10 words for topic 44:
-statement, united_states, leave_ceremony, march, action, case, kremlin, former_president, jones, president
+issue, crime, sanction, bucha, inflation, putin, bragg, kirby, russian_force, kyiv
 
 Top 10 words for topic 45:
-case, student, government, everything, georgia, sullivan, support, gold, kyiv, russian_force
+story, stelter, white_house, continue, kyiv, moscow, president, child, mariupol, russian_force
 
 Top 10 words for topic 46:
-others, reserve_fund, proposal_budget, president, kremlin, kyiv, united_states, russians, china, moscow
+men, ukrainians, question, russian_troop, president, hour, invasion, united_states, russian_force, child
 
 Top 10 words for topic 47:
-child, moscow, voter, comment, sanction, body, russian_force, invasion, kyiv, putin
+claim, refugee, united_states, president, bomb, russian_force, putin, invasion, moscow, jackson
 
 Top 10 words for topic 48:
-attack, china, invasion, nato, president_joe, measure, statement, sanction, president, putin
+jackson, show, invasion, barr, reporter, job, russians, zelensky, president, putin
 
 Top 10 words for topic 49:
-confirmation, record, case, durbin, judge, graham, republicans, supreme_court, democrats, judge_jackson
+court, democrats, idea, men, election, march, government, vekselberg, president, invasion
 
 Top 10 words for topic 50:
-direction_overnight, event, fascist_china, source_recollection, every_consideration, medium, image, voter, york_times, putin
+medium, seamy_history, assessment_america, political_technology, every_consideration, fascist_china, hope_authority, event, putin, voter
 
 Top 10 words for topic 51:
-reckless_democrats, element, depletion, pregnant_woman, political_price, disruption, body, measure, democrats, supply
+economy, child, talk, democrats, woman, force, claim, russians, russian_troop, kyiv
 
 Top 10 words for topic 52:
-story, investigation, ukrainians, company, support, china, part, decision, president, xi
+information, email, group, statement, story, scandal, case, action, former_president, president
 
 Top 10 words for topic 53:
-vladimir_putin, russian_force, russian_invasion, loss, white_house, move, president, sanction, putin, kyiv
+challenge_policy, cruz, woman, everything, gold, invasion, putin, kyiv, word, russian_force
 
 Top 10 words for topic 54:
-given_putin, face_thinking, putin_pay, zbigniew_brzezinski, italy, misstep_putin, joe, putin, sanction, supreme_court
+westerners, team, finally, zbigniew_brzezinski, salvage, dollar, newman, sanction, joe, putin
 
 Top 10 words for topic 55:
-investigation, crime, court, ukrainians, moscow, white_house, percent, force, kyiv, putin
+ukrainian_force, russian_force, email, invasion, video, statement, moscow, west, barrel, putin
 
 Top 10 words for topic 56:
-death, madeleine, book, importance, decisive_role, panel, statement, woman, family, albright
+job, life, price, white_house, inflation, president, determine, company, judge_jackson, republicans
 
 Top 10 words for topic 57:
-zelenskyy, sanction, united_states, continue, invasion, former_president, nato, president, joe, putin
+kyiv, police, men, president, united_states, nation, nato, woman, white_house, putin
 
 Top 10 words for topic 58:
-kyiv, spending_bill, percent, republicans, washington_post, ukrainians, visit, statement, united_states, putin
+moscow, water, bucha, fire, percent, statement, putin, town, kyiv, body
 
 Top 10 words for topic 59:
-senator, washington, decade, nato, something, supreme_court, power, united_states, president, putin
+supreme_court, barr, sanction, proposal_budget, reserve_fund, joe, russians, united_states, putin, president
 
 Top 10 words for topic 60:
-kyiv, crime, russian_troop, point, child, case, united_states, former_president, statement, president
+march, walker, speech, medium, case, power, remark, russian_troop, putin, president
 
 Top 10 words for topic 61:
-democrats, government, company, intelligence, vekselberg, sanction, invasion, president, united_states, putin
+crime, work, case, putin, election, china, united_states, former_president, force, president
 
 Top 10 words for topic 62:
-crime, united_states, nothing, capitol, former_president, others, rule, republicans, president, putin
+statement, donald, united_states, kemp, others, plan, president, committee, washington_post, putin
 
 Top 10 words for topic 63:
-invasion, white_house, supreme_court, united_states, statement, president, power, story, york_times, putin
+decision, china, comment, agreement, woman, person, russians, russian_force, putin, statement
 
 Top 10 words for topic 64:
-policy_standard, november, ally, american_company, fear, supreme_court, gasoline_price, oil_gas, statement, president
+navalny, wife, president, russian_force, invasion, treasury_department, putin, america, russians, supreme_court
 
 Top 10 words for topic 65:
-party, united_states, america, china, election, republicans, president, nato, putin, moscow
+fire, effort, border, invasion, moscow, sanction, nato, putin, white_house, president
 
 Top 10 words for topic 66:
-circumstance_subject, somehow, america_enters, scenario, messy_business, legislation_warren, political_goal, issue, mission, press_conference
+digital_currency, team, submarine, march, everyone, look, leader, force, putin, conflict
 
 Top 10 words for topic 67:
-treasury_department, package, part, donald, remark, invasion, white_house, sanction, plan, putin
+putin, president, video, border, body, checkpoint_brovary, political_goal, messy_business, legislation_warren, mission
 
 Top 10 words for topic 68:
-reporter, congress, march, zelensky, border, attack, modem, title, customer, putin
+united_states, invasion, west, nato, march, litvinovich, mariupol, obama, russians, putin
 
 Top 10 words for topic 69:
-western_country, attack, west, nato, defense_ministry, nato_official, russian_force, reporter, equipment, china
+crime, expectation, white_house, symbol, greene, teenager, role, congress, investigation, cubic_meter
 
 Top 10 words for topic 70:
-security_council, supreme_court, body, inflation, child, abramovich, zelenskyy, anything, president, putin
+putin, kyiv, bucha, president, child, moscow, white_house, body, appeared_deliberate, china
 
 Top 10 words for topic 71:
-orban, question, reporter, call, woman, putin, invasion, crime, atrocity, president
+question, white_house, decision, pomerantz, prosecutor, invasion, united_states, craighead, supreme_court, china
 
 Top 10 words for topic 72:
-legislation, hand, point, president, democrats, poll, invasion, sanction, russian_troop, china
+israel, huliaipole, woman, border, inflation, eastman, case, refugee, invasion, democrats
 
 Top 10 words for topic 73:
-missile, supreme_court, jackson, kyiv, statement, company, russian_force, congress, russian_troop, president
+jimmy_kimmel, article, president, site, russian_force, putin, force, scandal, missile, congress
 
 Top 10 words for topic 74:
-number, explosion, percent, putin, kyiv, video, strike, reporter, russian_troop, china
+invasion, statement, russian_troop, united_states, border, white_house, body, video, china, nato
 
 Top 10 words for topic 75:
-assault, success, home, moscow, demand, work, white_house, case, china, president
+democratic_commissioner, gas, southern_border, united_states, case, conflict, election, putin, ukrainians, president
 
 Top 10 words for topic 76:
-company, client, case, red_zone, number, russian_force, president, men, putin, man
+child, question, plan, march, putin, story, ground, russian_force, woman, mariupol
 
 Top 10 words for topic 77:
-voters, federal_holiday, norway_plan, idea, vladimir_putin, situation, problem, democrats, president, joe
+brooks, joe_manchin, event, situation, vladimir_putin, idea, putin, democrats, president, joe
 
 Top 10 words for topic 78:
-president_putin, leader, germany, obama, invasion, office, china, action, sanction, putin
+lawmaker, default, project_veritas, sanction, continue, medium, china, india, kremlin, president
 
 Top 10 words for topic 79:
-power, rally, reason, someone, everyone, russians, death, life, president, putin
+total, ukrainians, moscow, post, share, president, retweets, sanction, statement, putin
+
+Top 10 words for topic 80:
+leader, mandate, meeting, russian_troop, president, sanction, support, putin, announcement, nato
+
+Top 10 words for topic 81:
+march, thomas, men, china, percent, republicans, putin, white_house, abramovich, president
+
+Top 10 words for topic 82:
+paper, invasion, russian_force, moscow, nara, leave_ceremony, zelenskyy, putin, smith, kyiv
+
+Top 10 words for topic 83:
+election, page, family, talk, york_times, invasion, place, kyiv, putin, president
+
+Top 10 words for topic 84:
+poll, reporter, child, part, plan, law, invasion, republicans, president, putin
+
+Top 10 words for topic 85:
+china, defense, point, measure, loss, poll, covid, congress, bill, democrats
+
+Top 10 words for topic 86:
+target, russian_force, invasion, election, power, russians, nato, united_states, president, putin
+
+Top 10 words for topic 87:
+actor, kyiv, lawyer, state, film_jane, instagram_post, seat, leave_ceremony, russian_force, pinkett_smith
+
+Top 10 words for topic 88:
+case, court, democrats, nomination, russian_force, decade, step, president, political_decision, congress
+
+Top 10 words for topic 89:
+president, plane, violence, move, nato, nato_official, equipment, russian_force, reporter, china
+
+Top 10 words for topic 90:
+invasion, moscow, president, reporter, attack, customer, percent, russian_troop, kyiv, putin
+
+Top 10 words for topic 91:
+white_house, ukrainians, law, joe, nation, insurrection, protester, security_council, president, desantis
+
+Top 10 words for topic 92:
+weapon_america, official, economy, eu, round, poland, continue, part, ukrainians, germany
+
+Top 10 words for topic 93:
+former_president, donbas, atrocity, others, question, congress, president_joe, white_house, statement, nato
+
+Top 10 words for topic 94:
+participate_politics, multiple_court, evidence_date, kulazhanka, prisoner, russians, nato, invasion, putin, election
+
+Top 10 words for topic 95:
+force, campaign, russians, kyiv, president, kadyrov, sanction, nation, moscow, putin
+
+Top 10 words for topic 96:
+court, child, white_house, supreme_court, hawley, black_woman, putin, democrats, republicans, judge_jackson
+
+Top 10 words for topic 97:
+version, invasion, troop, vladimir_putin, nato, package, president, room, action, russians
+
+Top 10 words for topic 98:
+sanction, mariupol, march, congress, support, white_house, statement, putin, president, invasion
+
+Top 10 words for topic 99:
+child, white_house, area, price, election, evidence, president, inflation, putin, town
 

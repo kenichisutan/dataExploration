@@ -1,240 +1,300 @@
 Top 10 words for topic 0:
-neighborhood_poorer, mitigation_measure, death_rate, drug_treatment, result, person, white_house, life, infection, risk
+person, black_sea, threat, plant_kyiv, historic_blunder, smoke, number, attack_capital, body, russian_troop
 
 Top 10 words for topic 1:
-series_explosion, rising_price, person, number, poland, capitol_attack, army, etue, american_citizen, claim
+russian_demand, russian_gas, idea, energy, support, pay_ruble, oil, growth_forecast, western_country, moscow
 
 Top 10 words for topic 2:
-gag, action, mention_rock, leave_ceremony, attack, oscar, charge, rock, oscars, smith
+focused_job, focus_donbas, focus, floyd_family, senate_floor, vice_president, dear_chloé, hair_booker, supreme_court, judge_jackson
 
 Top 10 words for topic 3:
-missile, security_council, donbas_region, grain, republicans, anything, capital, russian_force, process, kyiv_chernihiv
+vote, weapon, force_party, home, thought_result, eu_neighbor, clear_question, defeat, transgender_visibility, orban
 
 Top 10 words for topic 4:
-neighborhood, load_body, pinkett_smith, moscow, number_civilian, donbas, kyiv, crime, port_mariupol, rock
+times, appear_court, mass, weekend_mass, care, briefly, russian_force, frank_turner, identity, sacramento
 
 Top 10 words for topic 5:
-place, genocide_charge, kyiv, development, troop, pressure, stock, genocide, simon, russian_force
+use_paxlovid, phenomenon, health_organization, round, poland, russian_coal, beijing, china, economic_sanction, paxlovid
 
 Top 10 words for topic 6:
-information, york, everything, civil_investigation, value_asset, motion, child, testimony_organization, fraud, corporate_insider
+hard_currency, west_prasad, idea, energy_contract, overnight_intend, reporter_minister, value, gas_currency, system, euro_dollar
 
 Top 10 words for topic 7:
-silenced_doubter, question, sensitive_issue, try, past_intelligence, mass_destruction, intelligence_putin, britain, intelligence, putin
+receive_treatment, remark, agreement_negotiation, treatment, president, simply, vaccine, money, white_house, spending_bill
 
 Top 10 words for topic 8:
-kyiv, illegal_invasion, others, video, detroit, brazen_conspiracy, men, steel_plant, argument_trial, roth
+october, whitmer_door, lost_leg, trial_evidence, milley, argument_trial, men, steel_plant, brazen_conspiracy, roth
 
 Top 10 words for topic 9:
-condemn_extremist, october, something_fiction, china, china_august, kidnap_governor, life_prison, case, croft, men
+building_verdetto, window_look, sacramento_california, slain_teenager, boy, altercation, company, mass, shot, airbnb
 
 Top 10 words for topic 10:
-week_father, database, mass, girl, multiple_block, saw_victim, shooter, scene, jepchirchir, woman
+oklahoma, senate_seat, experienced_pol, root_state, church, le_hand, filing, race, parry, office
 
 Top 10 words for topic 11:
-calendar, strategic_plan, march_announcement, scenario, projection_sbcc, moscow, defender, donbas, poland, russian_coal
+others, decision, map, west, committee, moscow, defender, donbas, sanction, bucha
 
 Top 10 words for topic 12:
-wounded_barrage, scream_victims, bullet_wound, teenager, begin_work, response_invasion, others, mask, town, party
+heaven, kramatorsk, zone_rebel, humanitarian_law, bucha, bill, kyiv, zelenskyy, russian_force, child
 
 Top 10 words for topic 13:
-kyiv_pentagon, atom_smasher, official, ukrainians, southern_port, weapon, mariupol_ukrainians, release, russian_force, barrel_oil
+necessary_official, necessary_secretary, fact, eastern_flank, russians_bay, key_suburb, artillery_missile, ukrainians, mariupol_ukrainians, russian_force
 
 Top 10 words for topic 14:
-dawn_dusk, russian_force, body, prayer, price, steel_plant, russians, ramadan, india, mariupol
+invasion_official, offensive_operation, stressed_come, move_prelude, discussion_ukrainians, ukrainian_force, others, russians_everything, mariupol_donbas, missile
 
 Top 10 words for topic 15:
-operate, affiliation, contingency_plan, product_sale, multinational, beijing, belarus, situation, investigation, china
+quinnipiac_poll, opposition_jackson, point, memories, coal, president, democrats, republicans, sununu, process
 
 Top 10 words for topic 16:
-missile_strike, ukrainian_fighter, evacuate, ruin_merciless, bid, moscow, mariupol, port_mariupol, kyiv, russian_force
+phase, concrete_steel, dumped_mound, neighborhood_kharkiv, material_creates, theater, price, body, inflation, mariupol
 
 Top 10 words for topic 17:
-row, donbas, putin, military_east, photo, ukrainians, mariupol, kremlin, fire, moscow
+reporter_message, career, position_president, budget, joe_leader, left, thomas_recuse, discus, impartiality, capitol_attack
 
 Top 10 words for topic 18:
-floyd_family, flow_troop, flour, following_failure, germany, renewable_energy, gdp, fourth_quarter, version_story, growth_forecast
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
 
 Top 10 words for topic 19:
-gas_norway, car_electricity, energy_market, pandemic, father, family, conservative_government, concern_moscow, plan, supply
+russian_force, adviser, make_apology, aggression_anyone, scene, family, nobody_belief, power, moral_outrage, putin
 
 Top 10 words for topic 20:
-work, widodo, surge, infection, man, injured_dozen, gun, prison_week, determine, white_house
+egypt, fear, prison, white_house, middle_east, lebanon, inflation, population, family, price
 
 Top 10 words for topic 21:
-volunteer_contract, russians, member_country, crowd, secret_service, putin, submarine, force, family, kremlin
+perfect_retreat, agency, presidency, crowd, putin, secret_service, submarine, force, family, kremlin
 
 Top 10 words for topic 22:
-interview_claim, ambition, lavrov, claim, sex_party, office, attack_capital, body, russian_troop, cawthorn
+dead_dozen, violence_center, men, investigators, investigators_number, connection, incident, smiley_martin, possession_firearm, sacramento_police
 
 Top 10 words for topic 23:
-ukrainian_border, hhs, aid, invasion, vehicle, supply_problem, production, ukrainian_force, price, troop
+jamie_dimon, recovery, letter, dimon, issue_inflation, accelerate_inflation, economy, polarized_election, rebuild_infrastructure, envy_fed
 
 Top 10 words for topic 24:
-slain_teenager, aftermath_mass, cry_verdetto, investigator, window_look, building_verdetto, nation, mass, shot, airbnb
+husband, cloud_festivity, distributors, currency, muslim, eid_holiday, dawn_dusk, price, prayer, ramadan
 
 Top 10 words for topic 25:
-atrocity_saw, allegation_aim, allegation_atrocity, right_council, netherlands, atrocity, vande_hei, sanction, russian_troop, bucha
+impeach, district_stop, agreement_march, house_democrats, add_extension, authority_dispute, government, senate, supply, march
 
 Top 10 words for topic 26:
-lawmaker, mass, crime, area, identity, frank_turner, woman, life, sacramento, body
+gunfire_girl, gun_violence, scene, golden_center, police, conference, schar, phone_call, release, barrel_oil
 
 Top 10 words for topic 27:
-enemy_force, fight, lead_soldier, russian_target, column, factor, weapon_system, benefit, kyiv, sununu
+rapid_halt, work, widodo, supreme_court, bunker, threat, steel_mill, bunker_beneath, night_zaporizhzhia, azovstal
 
 Top 10 words for topic 28:
-hospital_lester, horrific_accius, statement, mourn_life, crisis, officer, police, men, another_community, scene
+pfizer, test, notable_increase, damage, life_prison, result, kidnap_governor, increase, child, men
 
 Top 10 words for topic 29:
-break_defense, key_role, area, escalation, send_weapon, ukrainian_force, city_town, military_site, history, office
+black, weekend, stand_till, departmental_abuse, western, investigation, minneapolis, limit, social_medium, department
 
 Top 10 words for topic 30:
-damage, gazprom, moscow, result, poland, positivity_rate, covid, indoors, booster, second_booster
+defense_ministry, sign_contract, name, ground, jittery_prospect, comment, president, genocide, atrocity, crime
 
 Top 10 words for topic 31:
-region, sole_battery, military_training, indication_system, addition, home_pentagon, training_ukrainians, north_izium, move, ukrainians
+small_demonstration, press_conference, poor_household, room_protester, euro, france, le_pen, long_tie, weapon, entry_france
 
 Top 10 words for topic 32:
-mission, earth, crime, nobody_belief, isolated_position, opposition_home, power, moral_outrage, orban, putin
+russian_soldier, material, resume_video, equipment, real_information, radiation, place, javelin, others, police
 
 Top 10 words for topic 33:
-facility_export, delivery, poland, poland_bulgaria, program, poland_parliament, oil, china, sanction, moscow
+record, call, house_panel, troop, aid, putin, ukrainian_force, invasion, white_house, reporter
 
 Top 10 words for topic 34:
-reporter, bloc, condemn, negative_sentiment, moscow, end_topic, place, beijing, china, economic_sanction
+hearing_republicans, reporter, president_joe, republicans, learn_colleague, court_credibility, confirmation, corrosive_politics, jackson, supreme_court
 
 Top 10 words for topic 35:
-supreme_court, reporter, company, jackson, insurrection_capitol, call, house_panel, capitol, supporter, record
+investigation_seek, expectation_krisher, musk_tweet, possibility, sec, zino, stake, musk_tesla, share, musk
 
 Top 10 words for topic 36:
-barrel, release, campaign, scavino, panel, court, crime, violence, eastman, committee
+former_president, donald, perdue, congress, reelection, sex_party, office, claim, kemp, cawthorn
 
 Top 10 words for topic 37:
-food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
+attack, campaign, black_sea, court, woman, fire, crime, dozen_others, eastman, family
 
 Top 10 words for topic 38:
-warning_message, bar_live, drug_shortage, ap_bespalov, doctor, result, logistical_problem, invasion, supply, march
+covid, indoors, etue, army, positivity_rate, fourth_shot, american_citizen, intelligence, putin, jackson
 
 Top 10 words for topic 39:
-kyiv, george_president, economy_republicans, action, support_klain, klain_democrats, klain, look, others, rampant_inflation
+call, impact_brutal, assistance_addition, international_organization, kyiv, bucha_town, right_council, camera, member_state, refugee_refugee
 
 Top 10 words for topic 40:
-large_fire, large_explosion, advantage_sunny, area_region, kyiv_resident, kyiv_region, capture, moskva, defense_ministry, body
+woman, historic_blunder, airstrikes, offensive_separatist, electric_scooter, russian_troop, lesson, moskva, defense_ministry, body
 
 Top 10 words for topic 41:
-contract_currency, contract, odds, reporter, set_proposal, videoconference, demand, power_convert, sacramento_police, possession_firearm
+australia, gun, sanctions, president_australia, wellington_zealand, government, munition, australian_dollar, au, moscow
 
 Top 10 words for topic 42:
-student_debt, governor, poll, moratorium, safer_region, invasion, recruit_upwards, step, russian_troop, paxlovid
+system, indication_evidence, instruction_teacher, hand, russian_disinformation, urged_investigation, briefly, beijing, opel, china
 
 Top 10 words for topic 43:
-camera, statehouse, senate_alabama, make, election, experts, ukrainians_unit, brooks, sullivan, sanction
+rank, strategic_failure, military_officer, arm, limited_talk, support_ukrainians, continuation, psaki, weapon, syria
 
 Top 10 words for topic 44:
-conflict, hell, proposal, home_kyrylenko, congress, democratic_party, diverse_time, putin, threat, revenue
+slap, smith_act, smith_attack, smith_behavior, joke, accountability_griffin, rock_remark, response_invasion, ceremony, smith
 
 Top 10 words for topic 45:
-message_express, escape_conflict, humanitarian_group, ukrainian_refugee, pope_prayer, francis, libya_malta, coal, eu, malta
+loss, others, maxar_statement, kremlin, fire, mariupol, row, moscow, photo, ukrainians
 
 Top 10 words for topic 46:
-russians, russian_bombardment, russian_force, humanitarian_law, force, kyiv, government, senate, resistance, mariupol
+upwards_troop, mine, family, mariupol, complete_disaster, conservative_government, father, russians, capital, russian_force
 
 Top 10 words for topic 47:
-order_missile, chancellor, parent_stole, church, body_mass, zone_rebel, reporter, zelenskyy, explosion, ship
+france, ukrainian_woman, husband, evacuation, reporter, supply, plan, concern_moscow, explosion, ship
 
 Top 10 words for topic 48:
-effect, pay_york, educator, payroll_april, court, bill, hear_case, school_system, germany, employee
+russian_government, development, stock, sullivan, white_house, risk, infection, sanction, life, plan
 
 Top 10 words for topic 49:
-military_target, rubble_siege, kremlin, fighter_estimate, fighting_part, victory, sporadic_attack, mariupol, russian_force, hostility
+board_governors, regret_behavior, confrontation_rock, richard_williams, academy_instagram, life_look, rock_comedian, overturn_philadelphia, academy, smith
 
 Top 10 words for topic 50:
-real_effort, weapon, breath, military_strike, hundreds, likelihood, person, boston, garage, international_community
+worker, condolence, second_person, dempsey_firefighter, reporter_worker, young_man, area_hospital, boston, garage, person
 
 Top 10 words for topic 51:
-incident_supporter, unclear_force, decision_nato, finland_sweden, police, others, donbas, syria, fire, black_sea
+conflict, helicopter_equipment, man, target_kilometer, standoff, postage_stamp, flagship, russian_capital, black_sea, fire
 
 Top 10 words for topic 52:
-bunker_beneath, victory_nazism, former_president, donald, reelection, perdue, donbas, putin, azovstal, kemp
+share_funding, fight_settlement, confusion_result, change_tweet, musk, edit_feature, edit_button, feature, month_user, poll
 
 Top 10 words for topic 53:
-threat, personal_circumstance, extended_period, navy_seals, sailor_statement, sailor, vaccination_status, action_sailor, preliminary_injunction, navy
+inflation, alaska_palin, federal_government, public_eye, public_service, president_palin, run_office, young, point, palin
 
 Top 10 words for topic 54:
-press, russian_troop, side, effort_investigate, combat_task, video_footage, sanction_package, russian_force, child, crime
+crime, force, russians, belarus, russian_invasion, situation, region, mariupol, body, area
 
 Top 10 words for topic 55:
-meet, humanitarian_need, tough_time, demand_consumers, stop_list, middle_east, population, lebanon, inflation, price
-
-Top 10 words for topic 56:
-mariupol, surpass, podolyak_tweet, force, blow, poisonous_substance, urban_area, attack_capitol, government, goal
-
-Top 10 words for topic 57:
-stressed_come, discussion_ukrainians, vehicle_aircraft, aircraft_need, invasion_official, troop_casualty, pentagon, palin, missile, milley
-
-Top 10 words for topic 58:
-radiation, russian_soldier, force, risk_russians, others, ukrainian_authority, karmanau, carry_order, site, part
-
-Top 10 words for topic 59:
-army, phrased_allows, ceremony, smith, price, inflation, defense_ministry, jittery_prospect, name, sign_contract
-
-Top 10 words for topic 60:
-long_foot, hope, action_son, meet_president, joey_reed, start_pandemic, family, fear, white_house, prison
-
-Top 10 words for topic 61:
-shareholder, money_tesla, kremlin, goal, musk_tesla, zino, stake, sec, share, musk
-
-Top 10 words for topic 62:
-attack, committee, group, iran, reporter, decision, network, hour, customer, modem
-
-Top 10 words for topic 63:
 food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
 
+Top 10 words for topic 56:
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
+
+Top 10 words for topic 57:
+gag, leave_ceremony, mention_rock, trophy_family, smith_officially, smith_form, action, rock, oscars, smith
+
+Top 10 words for topic 58:
+yevheniia_kravchuk, ukrainian_soldier, report_civilian, main_thing, martha_raddatz, russians, department, pulled_mariupol, burn, confirm_visit
+
+Top 10 words for topic 59:
+putin, official_putin, belarus_kirby, troop_resupply, troop, evidence, degree_force, hour_invasion, kyiv, kirby
+
+Top 10 words for topic 60:
+president, culture_war, impossible_execute, election, sources_prosecutor, investigation, brooks, transgender_visibility, reelection, hateful_bill
+
+Top 10 words for topic 61:
+threat, personal_circumstance, extended_period, navy_seals, sailor_statement, sailor, vaccination_status, action_sailor, preliminary_injunction, navy
+
+Top 10 words for topic 62:
+panel, kyiv, mariupol, view, life, hour, iran, hostility, russian_force, india
+
+Top 10 words for topic 63:
+contract, market_gas, start, western_country, ruble_payment, phone_call, italy_germany, demand, supply_gas, kremlin_decree
+
 Top 10 words for topic 64:
-displaced_home, back_civilians, reporter, kyiv, bannon, family_member, white_house, round_sanction, putin, kirby
+marathon, shoulder_shoulder, boston, course, daughter, woman, boylston_street, bandit_woman, arm, jepchirchir
 
 Top 10 words for topic 65:
-sanction, hand, putin, appeared_deliberate, group, moment, ukrainians, fight, family, body
+interview_germany, several_country, death, chief, kharkiv_lie, meeting_germany, local_official, fear_concern, donbas, lavrov
 
 Top 10 words for topic 66:
-part, president, investigation, limit, minneapolis, transgender_visibility, reelection, hateful_bill, department, social_medium
+poland_passenger, may_timeline, policy, hour, sanction, title, title_policy, zelenskyy, official, border
 
 Top 10 words for topic 67:
-euro_dollar, ukrainians, complete_disaster, capital, mine, moscow, mariupol, zelenskyy, russians, russian_force
+violent_invasion, start, american_student, prepared_remark, reporter_reeds, commitment_everything, hhs, son_home, reed, president
 
 Top 10 words for topic 68:
-child_home, unspeakable_crime, local_resident, everything, meeting, ukrainian_nazis, number, ukrainian_child, overturn_philadelphia, child
+stiff_resistance, civilian_clothes, threat, recent_week, criticism, action, separatist, gas, appeared_deliberate, body
 
 Top 10 words for topic 69:
-relation_situation, civilian_shield, steel_plant, opportunity, table_guterres, opposite_end, woman, reporter_guterres, leader, cessation_hostility
+leader_meeting, warsaw, entered_poland, detail_image, fled_invasion, bank_lending, member_country, eu, zelenskyy, julian_lennon
 
 Top 10 words for topic 70:
-crew_member, comment, woman, fire, dozen_others, flagship_cruiser, moskva, black_sea, family, jackson
+maintains, invasion, aggression_everything, maxar_technologies, victory_nazism, weapon, donbas, kyiv, russian_force, putin
 
 Top 10 words for topic 71:
-conviction, united_states, attack, battleground, matter_week, train, sign_vibrant, reason, embassy_kyiv, china
+mariupol, moscow, port_mariupol, kyiv, safer_region, invasion, donbas_separatist, recruit_upwards, russian_troop, russian_force
 
 Top 10 words for topic 72:
-crimea_source, distanced_field, humanitarian_aid, eight_others, fall_foliage, found_hand, kyiv, numerous_crime, boston, minute
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
 
 Top 10 words for topic 73:
-document_computer, hush_money, investment_vekselberg, decade, billionaire, company, march, superyacht_lena, spain, vekselberg
+single_document, fivethirtyeight_percentage, congressional_map, evidence_scavino, possibility_violence, full_chamber, associate_contact, republicans, committee, scavino
 
 Top 10 words for topic 74:
-arm, invasion, crime, chancellor, ukrainian_official, bank_lending, russian_force, resident_town, supreme_court, lesson
+attack_lviv, weekend, rubble_siege, civilian, medvedchuk, ukrainian_fighter, kremlin, death, case_worldwide, case
 
 Top 10 words for topic 75:
-reporter, smith, russian_force, zelenskyy, genocide, president, comment, ground, crime, atrocity
+port_mariupol, number_civilian, mariupol, ukrainians, russian_troop, steel_plant, donbas, russians, crime, russian_force
 
 Top 10 words for topic 76:
-hospitalization, fourth_shot, population, vaccine, child, waste, vaccine_dos, shot, state, dos
+every_principle, crime, keep_start, car, kaliningrad, mistake, geneva_member, committee, town, aircraft
 
 Top 10 words for topic 77:
-start, fort_worth, case_worldwide, death, detention, reed, son_home, president, false_information, case
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
 
 Top 10 words for topic 78:
-america, conduct, winner_quiz, measure, president_joe, transgender_kid, bill_states, lgbtq, continued_bill, transgender_visibility
+taiwan_concerns, lee, lee_singapore, military_coup, talk_moscow, skepticism, implement_strategy, taiwan, palin, sanction
 
 Top 10 words for topic 79:
-reject_proposal, candidate, campaign_ad, trend, madison_cawthorn, congressional_map, european_union, republicans, sanction, orban
+malta_migrant, china, china_august, vande_hei, invasion, kyiv, eu, others, malta, sanction
+
+Top 10 words for topic 80:
+employee, booster, second_booster, russian_force, moment, fight, false_information, kyiv_chernihiv, ukrainians, family
+
+Top 10 words for topic 81:
+vote, democrats, contact, golf_caddy, democrats_navarro, addition, presidential_election, committee, capitol_riot, bannon
+
+Top 10 words for topic 82:
+food_drug, food, following_failure, focused_job, zone_rebel, positive_virus, testing, distanced_meeting, trip_part, president_joe
+
+Top 10 words for topic 83:
+government, washington, crimea_italy, renova_group, website_track, hush_money, memo, superyacht_lena, superyachts, vekselberg
+
+Top 10 words for topic 84:
+california_case, ap, outside_nightclub, story, ukrainian_border, gun, man, prison_week, injured_dozen, determine
+
+Top 10 words for topic 85:
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
+
+Top 10 words for topic 86:
+welcome_citizens, eligible_run, eight_others, effort, optional_masks, hour_minute, grilk_run, armored_vehicle, australian_lawmaker, moscow
+
+Top 10 words for topic 87:
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
+
+Top 10 words for topic 88:
+pinkett_smith, face, isolated_position, opposition_home, military_east, kyiv, moscow, putin, rock, orban
+
+Top 10 words for topic 89:
+begin_work, airbnb, scene, juvenile, bullet_wound, shout, police, home, altercation, party
+
+Top 10 words for topic 90:
+onslaught, attacker, unusable_viasat, invasion, individual_business, viasat, attack, customer, modem, network
+
+Top 10 words for topic 91:
+washington_plan, court, student_debt, blunt, moratorium, case, croft, government, idea, men
+
+Top 10 words for topic 92:
+budget, october, equitable_growth, annual_deficit, defense, le_plan, deficit, democratic_party, diverse_time, revenue
+
+Top 10 words for topic 93:
+rich_businessmen, russian_crewmates, stay_nasa, gap, vande_hei, nasa_astronaut, houston, nasa, earth, mission
+
+Top 10 words for topic 94:
+etch_circuit, outlook_production, ton_week, steel, high_inflation, prioritize, vehicle, production, price, investigation
+
+Top 10 words for topic 95:
+image_video, top_goal, target, tactical_disaster, action_abrams, call_someone, capital_troop, benefit, kyiv, claim
+
+Top 10 words for topic 96:
+food_market, food_export, food_drug, food, following_failure, focused_job, focus_donbas, focus, family_zelenskyy, zone_rebel
+
+Top 10 words for topic 97:
+crime_reports, invasion, official, force, podolyak_tweet, stop_list, gazprom, poland, goal, moscow
+
+Top 10 words for topic 98:
+vaccine_become, vaccine_majority, state_order, hospitalization, vaccine, waste, state, vaccine_dos, shot, dos
+
+Top 10 words for topic 99:
+street_ten, effort, finland_sweden, decision_nato, infection, surge, reporter, kremlin, lawmaker, white_house
 
