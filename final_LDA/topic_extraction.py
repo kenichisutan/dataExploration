@@ -153,10 +153,9 @@ def lda_on_clusters(raw_texts, clusters, article_ids, name):
                 for topic_idx, words in top_words.items():
                     f.write(f"Topic {topic_idx}: {', '.join(words)}\n")
 
-    # Save dominant topics to a text file
-    with open(f'{name}_dominant_topics.txt', 'w') as f:
-        for article_id, cluster_id, topic_id in dominant_topics:
-            f.write(f"Article ID: {article_id}, Cluster: {cluster_id}, Dominant Topic: {topic_id}\n")
+    # Save dominant topics to a CSV file
+    dominant_topics_df = pd.DataFrame(dominant_topics, columns=['article_id', 'cluster_id', 'dominant_topic'])
+    dominant_topics_df.to_csv(f'{name}_dominant_topics.csv', index=False)
 
     # Save all clusters to a single text file
     with open(f'{name}_clusters.txt', 'w') as f:
