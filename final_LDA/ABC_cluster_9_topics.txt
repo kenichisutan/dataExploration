@@ -1,0 +1,10 @@
+Topic 0: reporter, russians, pentagon, russian_crime, russian_troop, strike, evidence, effort, learn, offensive_push
+Topic 1: kirby, kyiv, hour, zelenskyy, putin, official, troop, russian_force, journey, family_zelenskyy
+Topic 2: prioritize, capital, reporter_russians, donbas_region, measure_talk, lithuania, support, belief_troop, likely_repositioning, bomb
+Topic 3: missile, kyiv_chernihiv, syria, airstrikes, btgs, donbas, russian_force, turkey, gear, barrel_bomb
+Topic 4: ukrainians, russian_force, mariupol_ukrainians, mariupol, fact, official_pentagon, ground, kyiv, official, artillery_missile
+Topic 5: invasion, troop, ukrainian_force, aid, reporter, region, unit, difficult_system, artillery, weapon
+Topic 6: kirby, invasion, pentagon, reporter, kyiv, mariupol, russians, ukrainians, russian_force, capital
+Topic 7: kirby, invasion, pentagon, reporter, kyiv, mariupol, russians, ukrainians, russian_force, capital
+Topic 8: ukrainians, mariupol, region, training_ukrainians, move, indication_system, evidence_russians, line_vehicle, sole_battery, success_south
+Topic 9: kirby, invasion, pentagon, reporter, kyiv, mariupol, russians, ukrainians, russian_force, capital

@@ -1,0 +1,10 @@
+Topic 0: reporter, age, fourth_dos, risk, data, decision_booster, reasonable_something, little_bit, vaccinated_half, another_shot
+Topic 1: paxlovid, president, reed, son_home, poll, treatment, something, importance, drug, hospitalization_death
+Topic 2: dos, shot, state, vaccine_dos, waste, vaccine, congress, hospitalization, death, shot_spring
+Topic 3: white_house, infection, risk, surge, life, virus, population, fourth_shot, treatment, result
+Topic 4: boston, person, student_debt, moratorium, garage, president_joe, borrower, payment, agency, plan
+Topic 5: case, vaccine, second_booster, booster, case_worldwide, death, food_drug, pfizer, variant, combo_shot
+Topic 6: transgender_visibility, president_joe, official, conduct, strategy, question, statehouse, instruction_screening, transgender_kid, continued_bill
+Topic 7: child, increase, border, officials, prediction, jump_infection, hospital_admission, frustration, available_jha, notable_increase
+Topic 8: navy, preliminary_injunction, vaccination_status, action_sailor, sailor, response_invasion, psaki, bill, others, close_quarter
+Topic 9: family, hateful_bill, white_house, reelection, fear, prison, hhs, stop_list, transgender_visibility, president_joe

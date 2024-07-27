@@ -1,0 +1,10 @@
+Topic 0: russian_troop, invasion, moscow, bucha, government, sanction, safer_region, body, camera, recruit_upwards
+Topic 1: malta, aircraft, moscow, kyiv, force, eu, responsible_content, pope_francis, others, mistake
+Topic 2: ship, body, sanction, explosion, moscow, reporter, appeared_deliberate, australian_lawmaker, armored_vehicle, work
+Topic 3: family, attack, fire, moskva, ground, sanction, state_department, dozen_others, flagship_cruiser, black_sea
+Topic 4: child, family, sanction, ukrainians, economic_sanction, fight, everything, crime, leader, story
+Topic 5: customer, modem, network, attack, town, zelenskyy, julian_lennon, reporter, action, favor
+Topic 6: putin, china, russian_force, result, beijing, name, defense_ministry, jittery_prospect, sign_contract, intelligence
+Topic 7: march, supply, false_information, group, international_community, threat, iran, activity, detention, ukrainian_border
+Topic 8: atrocity, crime, vekselberg, submarine, putin, moscow, genocide, ground, humanitarian_aid, government
+Topic 9: russian_force, place, genocide, finland_sweden, crime, simon, order, decision_nato, partner, vote

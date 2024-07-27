@@ -1,0 +1,10 @@
+Topic 0: barrel_oil, release, company, partner, white_house, belarus, situation, family_member, round_sanction, grain
+Topic 1: price, dollar, inflation, mission, invasion, stock, middle_east, population, lebanon, earth
+Topic 2: production, price, vehicle, demand_auto, shortage, reopen_factory, sense_bmw, consumer_factor, comparison, london
+Topic 3: musk, release, share, price, inflation, vande_hei, zino, musk_tesla, stake, sec
+Topic 4: india, view, standoff_china, reporter_washington, work, look, remark, india_decision, situation_entirety, change_price
+Topic 5: invasion, president_joe, inflation, release, work, march, mission, vande_hei, company, national_goal
+Topic 6: putin, moral_outrage, power, nobody_belief, reporter, president, remark, frustration, government, recent_data
+Topic 7: ramadan, price, prayer, dawn_dusk, invasion, work, life, interest_rate, march, currency
+Topic 8: dimon, envy_fed, rate_follow, rebuild_infrastructure, jamie_dimon, letter, recovery, issue_inflation, hindsight_medicine, polarized_election
+Topic 9: family, secret_service, agency, money, dollar, cost, perfect_retreat, payment, board_burisma, unnecessary_travel

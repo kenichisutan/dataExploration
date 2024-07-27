@@ -1,0 +1,10 @@
+Topic 0: scene, men, woman, family, another_community, mother, video, mass, saw_victim, group
+Topic 1: party, sacramento, frank_turner, identity, someone, life, weekend_mass, street_sacramento, bar_nightclub, father
+Topic 2: scene, police, sacramento_police, men, investigator, weekend_mass, altercation, company, airbnb, mass
+Topic 3: determine, men, sacramento_police, prison_week, man, gun, injured_dozen, possession_firearm, convict_carrying, crime_scene
+Topic 4: social_medium, department, investigation, limit, minneapolis, company, cointelpro, example_met, public_safety, racist_language
+Topic 5: scene, airbnb, mass, shot, bone_cut, multiple_shooter, day_gunfire, sacramento_california, daughter, slain_teenager
+Topic 6: police, morning, authorities, arrest, rifle_pistol, injured_police, bone, block, information_suspect, john_fisher
+Topic 7: scene, police, sacramento_police, men, investigator, weekend_mass, altercation, company, airbnb, mass
+Topic 8: investigation, investigator, floyd_family, path, timeline_change, racial_discrimination, minneapolis_police, mpd, scene, police
+Topic 9: scene, altercation, investigator, officer, house, mother, davis, kid, airbnb, shooting

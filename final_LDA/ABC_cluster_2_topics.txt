@@ -1,0 +1,10 @@
+Topic 0: committee, election, map, likely_president, brooks, comment, point, justice_department, decision, deficit
+Topic 1: kemp, orban, supreme_court, vote, election, donald, former_president, lawmaker, threshold, reelection
+Topic 2: sununu, capitol_attack, supreme_court, president, meadows_election, career, joe_leader, left, debate, democrats
+Topic 3: congress, capitol, panel, committee, supporter, record, insurrection_capitol, call, house_panel, attack_capitol
+Topic 4: cawthorn, committee, bannon, china, office, election, claim, presidential_election, sex_party, scavino
+Topic 5: men, jackson, republicans, person, croft, case, judge, october, detroit, kidnapping_plot
+Topic 6: men, eastman, process, republicans, senate, revenue, white_house, democrats, government, campaign
+Topic 7: office, jepchirchir, comment, white_house, democrats, reporter, woman, house, state, voter
+Topic 8: palin, court, idea, blunt, president, point, george_stephanopoulos, york_times, others, part
+Topic 9: orban, supreme_court, jackson, conversation, opposition_home, isolated_position, judge_jackson, point, confirmation, president_joe

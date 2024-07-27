@@ -1,0 +1,10 @@
+Topic 0: euro_dollar, reporter_minister, change, idea, gas_currency, system, pipeline_system, energy_contract, reserve, ruble_value
+Topic 1: oil, gas_ruble, european_contract, european_law, putin_law, problem, february_commission, schwedt_refinery, ready_habeck, hungary_slovakia
+Topic 2: supply, plan, concern_moscow, industry, eu, demand, energy, agreement_receive, economy, detail_process
+Topic 3: renewable_energy, version_story, fourth_quarter, gdp, germany, poland, oil, growth_forecast, demand, western_country
+Topic 4: kremlin_decree, bank, demand, western_country, contract, company, dollar, italy_germany, dollar_putin, supply_gas
+Topic 5: moscow, poland, gazprom, oil, western_country, gas_supply, pipeline, support, delivery, poland_parliament
+Topic 6: oil, demand, european_nation, step, line_analyst, series_explosion, rising_price, person, cutoff_kremlin, nothing
+Topic 7: renewable_energy, version_story, fourth_quarter, gdp, germany, poland, oil, growth_forecast, demand, western_country
+Topic 8: russian_coal, fuel, member_country, poland, ruble_demand, contract_currency, set_proposal, declaration, gas_oil, clear_breach
+Topic 9: coal, industry, eu, contract, coalition, difficult_eu, discussion, inflation, eu_country, eu_plan

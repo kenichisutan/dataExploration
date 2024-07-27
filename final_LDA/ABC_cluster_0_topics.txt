@@ -1,0 +1,10 @@
+Topic 0: covid, family, conservative_government, father, positivity_rate, indoors, claim, risk, positive_virus, something
+Topic 1: mask, others, employee, spread, decision, importance, fact, destination, problem, precaution
+Topic 2: health_official, rule, increase, life, death, case, viral_resurgence, hospital_total, month_case, hospital
+Topic 3: rule, florida_state, lawsuit, april, individual_state, individual_right, traveler, handful_democrats, coronaviruses, chinese_scientist
+Topic 4: vulnerable_neighbor, life_washington, related_hospitalization, vaccination_status, ers_get, data, official_politician, weekly_total, positive_infection, condition
+Topic 5: overturn_philadelphia, mask_philadelphia, wave_hospitalization, guideline_call, act, mandate_philadelphia, mandate, case_day, disease, rise
+Topic 6: rule, florida_state, lawsuit, april, individual_state, individual_right, traveler, handful_democrats, coronaviruses, chinese_scientist
+Topic 7: rule, florida_state, lawsuit, april, individual_state, individual_right, traveler, handful_democrats, coronaviruses, chinese_scientist
+Topic 8: boston, pandemic, former_champion, slog, grilk_run, distanced_field, speed_beat, patriots_race, effort, hour_minute
+Topic 9: rule, florida_state, lawsuit, april, individual_state, individual_right, traveler, handful_democrats, coronaviruses, chinese_scientist
