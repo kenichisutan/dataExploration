@@ -46,6 +46,7 @@ def load_and_process_data(paths):
     all_text_list = []
     raw_text_list = []  # To keep raw texts for clustering
     article_id_list = []  # To keep article_ids
+    entities_list = []  # To keep recognized entities
     for path in paths:
         if os.path.exists(path):
             df = pd.read_csv(path)
@@ -63,7 +64,12 @@ def load_and_process_data(paths):
         noun_phrases = get_noun_phrases(lemmatized_text)
         processed_texts.append(' '.join(noun_phrases))
 
-    return processed_texts, raw_text_list, article_id_list
+        # Recognize entities in the raw text
+        doc = nlp(text)
+        entities = [(ent.text, ent.label_) for ent in doc.ents]
+        entities_list.append(entities)
+
+    return processed_texts, raw_text_list, article_id_list, entities_list
 
 def load_additional_stop_words(file_path):
     with open(file_path, 'r') as f:
@@ -166,13 +172,20 @@ def lda_on_clusters(raw_texts, clusters, article_ids, name):
 
 def main():
     # LDA for ABC dataset
-    all_text, raw_text, article_ids = load_and_process_data(
+    all_text, raw_text, article_ids, entities_list = load_and_process_data(
         ['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
     tfidf_matrix, vectorizer = extract_features(raw_text)
     clusters, km = apply_clustering(tfidf_matrix, num_clusters=10)
     lda_on_clusters(raw_text, clusters, article_ids, 'ABC')
     silhouette_avg = silhouette_score(tfidf_matrix, clusters)
     print(f"Silhouette Score: {silhouette_avg}")
+
+    # Save entities to a CSV file
+    entities_df = pd.DataFrame({
+        'article_id': article_ids,
+        'entities': ['; '.join([f"{text} ({label})" for text, label in entities]) for entities in entities_list]
+    })
+    entities_df.to_csv('recognized_entities.csv', index=False)
 
 # Load the stop words
 additional_stop_words = load_additional_stop_words('../additional_stop_words.txt')
