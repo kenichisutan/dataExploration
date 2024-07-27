@@ -1,0 +1,10 @@
+Topic 0: capitol, garland, probe, evidence, money, familiar_matter, washington_post, two_month, digital_evidence, multiple_source
+Topic 1: democrats, republicans, jackson, senate, supreme_court, republican, blunt, three, palin, white_house
+Topic 2: jackson, cawthorn, republican, supreme_court, mccarthy, congress, republicans, democrats, north_carolina, senate
+Topic 3: republican, kemp, georgia, jones, donald, duncan, senate, second, jepchirchir, sanders
+Topic 4: white_house, house, capitol, congress, justice_department, eastman, january, committee, donald, thomas
+Topic 5: republicans, thomas, congress, joe, republican, america, china, november, whitmer, house
+Topic 6: hungary, orban, hong_kong, british, eu, china, moscow, brooks, republicans, russian
+Topic 7: sununu, democrats, congress, alaska, republicans, palin, york, republican, joe, texas
+Topic 8: harris, alaska, palin, four, michigan, two, whitmer, croft, march, donald
+Topic 9: navarro, scavino, bannon, house, steve_bannon, supreme_court, select_committee, committee, joe, white_house

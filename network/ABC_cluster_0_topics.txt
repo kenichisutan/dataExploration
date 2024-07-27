@@ -1,0 +1,10 @@
+Topic 0: sax, boston, case, indoors, united_states, paxlovid_pfizer, family_friend, week_ago, england, holiday_weekend
+Topic 1: philadelphia, bettigole, york, health, asia, philadelphia_philadelphia, cdc, eric_adams, connecticut, cheryl_bettigole
+Topic 2: paul, senate, kentucky, republican, november, republicans, democrats, democratic, paul_senate, rand_paul
+Topic 3: uft, sutter_health, sutter, doe, april, san_francisco, ppe, letter, unpaid_leave, supreme_court
+Topic 4: york, democratic, april, covid, eric_adams, connecticut, cheryl_bettigole, cdc, florida, yorkers
+Topic 5: two_week, northeast, daily, united_states, cdc, increase, recent_week, washington, york_jersey, projected_increase
+Topic 6: boston_marathon, boston, three, spring, october, york, california, linden_tokyo, patriots_nine, kenneth_green
+Topic 7: cdc, british, britain, ray, matt_hancock, hochul, florida, april, january, two
+Topic 8: york, democratic, april, covid, eric_adams, connecticut, cheryl_bettigole, cdc, florida, yorkers
+Topic 9: cdc, philadelphia, florida, pennsylvania, april, mississippi, overturn, republican, ohio, alabama

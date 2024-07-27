@@ -1,0 +1,10 @@
+Topic 0: russian, ukrainian, mariupol, russians, donbas, moscow, kramatorsk, western, kremlin, russian_force
+Topic 1: russian, ukrainian, mariupol, donbas, putin, russians, lviv, ukrainians, kremlin, pentagon
+Topic 2: russian, ukrainian, mariupol, russians, moscow, donbas, kremlin, two, nato, telegram
+Topic 3: kremlin, putin, russian, ukrainian, moscow, russians, may, kelly, invasion, western
+Topic 4: donbas, putin, nazism, soviet, crimea, soviet_union, russian, eastern, danger, nazi
+Topic 5: wells, mariupol, berdyansk_zaporizhzhia, red_cross, seven, humanitarian_corridor, vereshchuk, mariupol_mariupol, boychenko, icrc
+Topic 6: london, civilian, march, second, antónio_guterres, recent_day, hundred_civilian, ukrainian_soldier, vladimir_putin, volodymyr_zelenskyy
+Topic 7: russian, ukrainian, mariupol, moscow, donbas, zelenskyy, kremlin, russians, ukrainians, putin
+Topic 8: london, civilian, march, second, antónio_guterres, recent_day, hundred_civilian, ukrainian_soldier, vladimir_putin, volodymyr_zelenskyy
+Topic 9: ukrainian, mariupol, russian, guterres, united_nations, moscow, azovstal, putin, russians, donbas

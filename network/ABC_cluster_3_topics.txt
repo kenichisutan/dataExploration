@@ -1,0 +1,10 @@
+Topic 0: russian, poland, eu, brussels, moscow, bulgaria, putin, european_union, two, european
+Topic 1: follow_ap, russian, european_union, vladimir_putin, putin, moscow, germany, italy, german, european
+Topic 2: poland, russian, bulgaria, moscow, gazprom, ukrainian, warsaw, european, polish, putin
+Topic 3: follow_ap, russian, european_union, vladimir_putin, putin, moscow, germany, italy, german, european
+Topic 4: germany, german, russian, gdp, growth, location, quarter, germany_gdp, november, fourth_quarter
+Topic 5: putin, russian, italy, italy_germany, european, scholz, german, company, kremlin, kremlin_decree
+Topic 6: russian, poland, eu, germany, moscow, european_union, habeck, norway, energy, ukrainian
+Topic 7: follow_ap, russian, european_union, vladimir_putin, putin, moscow, germany, italy, german, european
+Topic 8: russian, leyen, eu, putin, von_der, moscow, western, kremlin, germany, vladimir_putin
+Topic 9: russian, putin, european, german, kremlin, germany, import, prasad, eu, move

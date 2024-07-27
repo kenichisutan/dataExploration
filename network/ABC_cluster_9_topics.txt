@@ -1,0 +1,10 @@
+Topic 0: russian, ukrainians, donbas, kirby, another_btgs, russians, donbas_kirby, pentagon, mistake, kyiv_lviv
+Topic 1: zelenskyy, state_department, blinken, poland, million, ukrainian, united_states, blinken_austin, two, vladimir_putin
+Topic 2: russian, syria, ukrainian, bucha, dvornikov, sullivan, pentagon, turkey, syrian, belarus
+Topic 3: russian, pentagon, russians, donbas, ukrainians, mariupol, putin, ukrainian, kirby, nato
+Topic 4: john_kirby, kirby_kirby, kyiv, two, two_thing, demeanor, final_word, depravity_briefing, difficult_look, military_accusation
+Topic 5: ukrainian, kirby, ukrainians, donbas, russian, mulroy, pentagon, wolters, kyiv_kirby, russians
+Topic 6: john_kirby, kirby_kirby, kyiv, two, two_thing, demeanor, final_word, depravity_briefing, difficult_look, military_accusation
+Topic 7: kirby, pentagon, russian, putin, belarus, kirby_kirby, kyiv, russian_force, white_house, russians
+Topic 8: john_kirby, kirby_kirby, kyiv, two, two_thing, demeanor, final_word, depravity_briefing, difficult_look, military_accusation
+Topic 9: john_kirby, kirby_kirby, kyiv, two, two_thing, demeanor, final_word, depravity_briefing, difficult_look, military_accusation

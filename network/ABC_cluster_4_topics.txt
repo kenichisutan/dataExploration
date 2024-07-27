@@ -1,0 +1,10 @@
+Topic 0: russian, march, indonesia, ukrainian, eu, lee, china, bucha, two, congress
+Topic 1: china, syria, beijing, russian, moscow, putin, delaware, ukrainian, australia, australian
+Topic 2: malta, francis, ukrainian, russian, viasat, zelenskyy, german, britain, security_council, ap
+Topic 3: nato, yemen, houthis, state_department, iran, saudi_arabia, yemeni, two, saudi, houthi
+Topic 4: china, beijing, eu, zhao, chinese, united_states, european_union, lithuania, taiwan, moscow
+Topic 5: mistake, reporter, trip, end, ukrainian, vladimir_putin, location, china, update, putin_campaign
+Topic 6: russian, vekselberg, moscow, ukrainian, russians, spain, blinken, putin, kremlin, australia
+Topic 7: nato, france, finland, le_pen, sweden, russian, french, eu, milley, finnish
+Topic 8: russian, simon, ukrainian, moscow, yugoslavia, kse_institute, russians, poland, bartholomew, genocide
+Topic 9: russian, putin, ukrainian, bucha, kremlin, moscow, britain, vladimir_putin, ukrainians, zelenskyy
