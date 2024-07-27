@@ -7,6 +7,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.decomposition import LatentDirichletAllocation
 from sklearn.feature_extraction.text import CountVectorizer
+import spacy
 
 from preprocess import preprocess_text, lemmatize_text, get_noun_phrases, load_additional_stop_words
 
@@ -32,6 +33,7 @@ def load_and_process_data(paths):
     all_text_list = []
     raw_text_list = []  # To keep raw texts for clustering
     article_id_list = []  # To keep article_ids
+    entities_list = []  # To keep recognized entities
     for path in paths:
         if os.path.exists(path):
             df = pd.read_csv(path)
@@ -49,7 +51,12 @@ def load_and_process_data(paths):
         noun_phrases = get_noun_phrases(lemmatized_text)
         processed_texts.append(' '.join(noun_phrases))
 
-    return processed_texts, raw_text_list, article_id_list
+        # Recognize entities in the raw text
+        doc = nlp(text)
+        entities = [(entity.text, entity.label_) for entity in doc.ents]
+        entities_list.append(entities)
+
+    return processed_texts, raw_text_list, article_id_list, entities_list
 
 
 # Step 3: LDA for topic modeling
@@ -137,13 +144,22 @@ def lda_on_clusters(raw_texts, clusters, article_ids, name):
 
 def main():
     # LDA for ABC dataset
-    all_text, raw_text, article_ids = load_and_process_data(
+    all_text, raw_text, article_ids, entities_list = load_and_process_data(
         ['/home/kenich/MultiLayrtET2_Project/Data/2_proccessed_data_and_analysis/data/selected_data/articles/ABC/ABC.csv'])
     tfidf_matrix, vectorizer = extract_features(raw_text)
     clusters, km = apply_clustering(tfidf_matrix, num_clusters=10)
     lda_on_clusters(raw_text, clusters, article_ids, 'ABC')
     silhouette_avg = silhouette_score(tfidf_matrix, clusters)
     print(f"Silhouette Score: {silhouette_avg}")
+
+    # Save entities to a text file
+    with open('recognized_entities.txt', 'w') as f:
+        for article_id, entities in zip(article_ids, entities_list):
+            f.write(f"Article ID: {article_id}\n")
+            f.write(f"Entities: {entities}\n\n")
+
+# Load SpaCy model
+nlp = spacy.load('en_core_web_sm')
 
 # Load the stop words
 additional_stop_words = load_additional_stop_words('../additional_stop_words.txt')
