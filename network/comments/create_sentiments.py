@@ -4,6 +4,7 @@ import pandas as pd
 from nltk.corpus import stopwords
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk import word_tokenize, WordNetLemmatizer
+import re
 
 # Load pre-trained SpaCy model
 nlp = spacy.load('en_core_web_sm')
@@ -13,6 +14,7 @@ sentiment_analyzer = SentimentIntensityAnalyzer()
 
 # Define functions for preprocessing and noun phrase extraction
 def preprocess_text(text, stop_words):
+    text = re.sub(r'\W+', ' ', text)  # Remove non-alphanumeric characters
     words = word_tokenize(text)
     words = [word for word in words if word.lower() not in stop_words and word.isalpha()]
     return ' '.join(words)
@@ -48,8 +50,8 @@ def load_and_process_comments_data(paths):
         lemmatized_text = lemmatize_text(preprocessed_text)
         processed_texts.append(lemmatized_text)
 
-        # Recognize entities in the raw text
-        doc = nlp(text)
+        # Recognize entities in the preprocessed text
+        doc = nlp(preprocessed_text)
         entities = [(ent.text, ent.label_, ent.sent) for ent in doc.ents if ent.label_ in {'PERSON', 'NORP', 'ORG', 'GPE'}]
         entities_list.append(entities)
 
@@ -84,7 +86,6 @@ def sentiment_analysis_on_comments(raw_texts, article_ids, comment_ids, parent_i
     comment_entity_sentiment_df = pd.DataFrame(comment_entity_sentiment)
     comment_entity_sentiment_df.to_csv('comment_entity_sentiment_analysis.csv', index=False)
 
-
 def main():
     # Paths to the CSV files for comments
     comment_paths = [
@@ -92,12 +93,10 @@ def main():
     ]
 
     # Load and process comment data
-    processed_comment_texts, raw_comment_texts, article_ids, comment_ids, parent_ids, entities_list = load_and_process_comments_data(
-        comment_paths)
+    processed_comment_texts, raw_comment_texts, article_ids, comment_ids, parent_ids, entities_list = load_and_process_comments_data(comment_paths)
 
     # Perform sentiment analysis on comments
     sentiment_analysis_on_comments(raw_comment_texts, article_ids, comment_ids, parent_ids, entities_list)
-
 
 # Load stop words
 additional_stop_words = load_additional_stop_words('../../additional_stop_words.txt')
