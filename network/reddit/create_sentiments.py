@@ -1,4 +1,6 @@
 import os
+import re
+
 import spacy
 import pandas as pd
 from nltk.corpus import stopwords
@@ -13,6 +15,7 @@ sentiment_analyzer = SentimentIntensityAnalyzer()
 
 # Define functions for preprocessing and noun phrase extraction
 def preprocess_text(text, stop_words):
+    text = re.sub(r'\W+', ' ', text)  # Remove non-alphanumeric characters
     words = word_tokenize(text)
     words = [word for word in words if word.lower() not in stop_words and word.isalpha()]
     return ' '.join(words)

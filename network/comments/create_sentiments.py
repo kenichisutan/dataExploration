@@ -84,7 +84,7 @@ def sentiment_analysis_on_comments(raw_texts, article_ids, comment_ids, parent_i
 
     # Save sentiment analysis results to a CSV file
     comment_entity_sentiment_df = pd.DataFrame(comment_entity_sentiment)
-    comment_entity_sentiment_df.to_csv('comment_entity_sentiment_analysis.csv', index=False)
+    comment_entity_sentiment_df.to_csv('reddit_entity_sentiment_analysis.csv', index=False)
 
 def main():
     # Paths to the CSV files for comments
